@@ -98,13 +98,16 @@ PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MME5YYXNsWFlzQjNMdEZXWnlSM2NsWlhhczlTWjJsR2J2VXpN
 #EXTINF:-1 tvg-id="ext" tvg-name="Jonaki" tvg-logo="" group-title="Bangladesh",Jonaki
 PUlLaGliRlZ0VW1kcHgwUDRVM010NUNkemxHYjVGR2J3OUNjMXQyWWhKMlhpNW1iajlDWjJSbmN2WUhkdVEzY2hOR2R5RldiejVTWnc5bWMxVldMeDRHWmo5eUw2TUhjMFJIYQ==
 
-//India Movie//
+//India Movies//
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3gXQutG" group-title="* BDIX21",Manoranjan Movies
 NFUzTXQ1Q2VsUm1icDlDY3dnRE5mNVdhdU1YWnBaM2JONVdZcTVXWXk5bWJoMWtMeWNUTXk4eWNzaDJMMFZtYnVrMmR1eEdidU1uTHpCSGNoSmphdFl6TXdNV0x0OXlMNk1IYzBSSGE=
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3g5QrdK" group-title="* BDIX21",Dabangg TV
 PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYdWxtTFdSMVpuNVdZaUZHUnVBVE41QXpMenhHYXZRWFp1NVNhMzVHYnM1eWN1TUhjd0ZtTXExU013TVdMdDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Zee Anmol Cinema" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-anmol-cinema-logo-300x300.jpg" group-title="* All 20032021",Zee Anmol Cinema
+NFUzTXQ1Q2VsUm1icDlTYnVOR2J2MW1iaHAzTDBWbWJ1NEdaamRIYXV3MmN6NVNPaFJqYTRjWE41OXlMNk1IYzBSSGE=
 
 //India Music//
 
@@ -126,16 +129,64 @@ PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYdWxtTHVGR2F6RkdWWWxqTHdNek53OFNaMmxHYnZRWFp1NVNh
 #EXTINF:-1 tvg-logo="https://bit.ly/2EfPNNy" group-title="India Music",BFlix Movies
 PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYdWxtTHpWV2EyOVdUNGxHYkdKa0wxUURNMTh5Y3NoMkwwVm1idWsyZHV4R2J1TW5MekJIY2hKamF0WXpNd01XTHQ5eUw2TUhjMFJIYQ==
 
-//IN//
+#EXTINF:-1 tvg-name="Zing" tvg-logo="" group-title="* All 20032021",Zing
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2RVRZeFlYTHp0MlloSkhkdmNtYnBwM0wwVm1idTRHWmpkSGF1dzJjejVTT2hSamE0Y1hONTl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9xM (1)" tvg-logo="" group-title="* All 20032021",9xM (1)
+PUlLaGliRlZ0VW1kcHgwUDRVM010NUNNd1l6TjNnVFB2VkdacFpYTHdBRE00QWpNOVFtYjE5bE00UURPd0l6WHZsR1oxRldMTmhWT3Z3V2J6bG1MTmhWT3YwRVc1OGlkMDF5YXdKMkwwVm1idVFuYnZKblprVjNic05tTHJGbVl3TlhObEJITndoVGN5UTJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Wow Music" tvg-logo="" group-title="* All 20032021",Wow Music
+PT1BTzFOVGJ1VW1kcHgyTHp4R2F1bDJkdmQzTHVsbUx2Tm1MNDltWWxaWGFzNVNaMjlHYnA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="MusicIndia.uk" tvg-name="Music India" tvg-logo="" group-title="* All 20032021",Music India
+PUlLaGliRlZ0VW1kcHgwUDRVM010NWlicDVTWXBSbWJKTldhelZYVHVRRE15QXpMa2gyWHp4R2F2UVhadTVTYTM1R2JzNXljdU1IY3dGbU1xMVNNd01XTHQ5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Music Mastii" tvg-logo="" group-title="* All 20032021",Music Mastii
+PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MNFZHWnVsMkxwa0dhME5YWU5oQ2JsNW1iaGgyUXZVbWRweDBMcGhHZHpGV2J2UW5ibFJuYnZOMEwxZ2pMd1lUTXVrVE94NHlNd0V6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9x Jalwa (1)" tvg-logo="" group-title="* All 20032021",9x Jalwa
+PUlLaGliRlZ0VW1kcHgwUDRVM010NUNlbFJtYnA5Q2N3Z0ROZjVXYXVFMmRzRm1TWWxqTHhnek53OFNaMmxHYnZRWFp1NVNhMzVHYnM1eWN1TUhjd0ZtTXExU013TVdMdDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9x Tashan" tvg-logo="" group-title="* All 20032021",9x Tashan
+PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MdWxtTHVGR2F6RkdWWWxqTHdNek53OFNaMmxHYnZRWFp1NVNhMzVHYnM1eWN1TUhjd0ZtTXExU013TVdMdDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" tvg-logo="" group-title="* All 20032021",Sangeet Bhojpuri
+PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYdWxtTHBKWGR3cDJib0pFZGxWMlp1RjJVdUl6TTBBekx6eEdhdlFYWnU1U2EzNUdiczV5Y3VNSGN3Rm1NcTFTTXdNV0x0OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Desi Channel" tvg-logo="" group-title="* All 20032021",Desi Channel
+PUlLaGliRlZ0VW1kcHgwUDRVM010NXlidTlXYnZBSFp6NWlZMFVtTXdjallrWm1aaFJqWjNjelkxRUdNM0ltTjBRV1poQkRaa0pUWjM4Q2JsNW1iaGgyWXBOWFprOUNkbDVtTHVSMll1MTJkdVVtZHB4Mkx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Sakkat" tvg-logo="" group-title="* All 20032021",Sakkat
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2UVhZcnRXWXo5aWNoVm1icHgyTHQ5Mll1RVdiaGRtYjFobUxsWlhhczl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="ext" tvg-name="M4 Malayalam" tvg-logo="" group-title="* All 20032021",M4 Malayalam
+PWdUZHowbUxsWlhhczl5Y3NoV2JoeFdZNUZHYmgxbWMxOW1adDlTWjJsR2J1MFdZbEpIZHpSVGJ1QUhjaDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Mk Tunes" tvg-logo="" group-title="* All 20032021",Mk Tunes
+NFUzTXQ1Q2VsUm1icDlTS3lBREt0RldaeVIzVXZreWNsNVdkVXRVVG93V1p1NVdZb04wTGxaWGFNOXljbDVXZDB0V2J2UW5ibFJuYnZOMEwxZ2pMd1lUTXVrVE94NHlNd0V6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="KalaignarIsaiAruvi.in" tvg-name="Isai Aruvi" tvg-logo="" group-title="* All 20032021",Isai Aruvi
+NFUzTXQ1Q2VsUm1icDlTS3BaWGR5RlVhaE5YU293V1p1NVdZb04wTGxaWGFNOVNhMlZuY2hsV1l6bDJMMDVXWjA1MmJEOUNOMUlqTHhZVE11a1RPeDR5TXdFekx2b0RjMFJIYQ==
+
+//IN Movies//
 
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",&privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="IN",Al Jazeera
-PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTGhKWFpscFhZcXhXWXZrRVZRNUdhUWxXWXhVelZoUm5VWEYyY0dSV2JQUkZVejRrVmxkbFJGUjFRS1ZrV05aMVJqWm5aNTFrZUpGalQ2VkdNVkJETVVwVlM0ZFZXeWtqUmlwblJsRjJiRlIyWkJSbFQyRWxlbkpsTlZSVVNIQlRSRTFVZTRrblQ0aFRhTmxUVkZKR2NTaERXNVpWYmtsblZhTjJMMFFETjYwMmJqNUNaaTkyWmhwbUxsSlhkMEZtYm5sMmN3MVdaMDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="* All 20032021",HBO Hits
+NFUzTXQ1Q2VsUm1icDl5VVVsRVN2NFdhaDEyTGxaWGFzOWlicGRXYXk5Mkx6UURONG9UYnZObUxobDJjaDkyWnZKR2F1RURNdWwyWnBKM2JsWlhhczl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="* All 20032021",Al Jazeera
-PT1BTzFOVGJ1TURNdlVrU0I5Q2RsNW1McUZHZGxkbUxscFdZdElXWjMxeWNzaFdMbFpYYXM5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-name="MBC Action HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRid8POkCIa-DJFcj71DtwJ_7Ylan1ZhfjdxxnmyTTbBU1H41i-&usqp=CAU" group-title="* All 20032021",MBC Action HD
+PWdUZHowbUx5OEZlbFJtYnA5aVl3VURNa2xUT3hJak0wSUROalpUT3dBak4wVVRaNE1UTnhZek5rUkdPMjhTTTI5Q2QxOTJMMFZtYnVRV2FvRkdhejVpWTFSV0xrOW1jdzFpYnZsR2RqRjJZaTFXTHp4R2F6OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-name="MBC Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdOU1MURm3ElUStHv-_h_pA0OC60RWTlH2Rw&usqp=CAU" group-title="* All 20032021",MBC Max HD
+PWdUZHowbUx5OEZlbFJtYnA5eU0xWVRaeUVtTjJVR096TUdPNEVXTzBJelkwWURPaFIyWTNFV054Z3pNeDhTTTI5Q2QxOTJMMFZtYnVRV2FvRkdhejVpWTFSV0xrOW1jdzFDZWgxMllpMVdMenhHYXo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-name="RTP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBsRDpDOCl8LWSFDqpw6_ljNRPLBYlnlQqqA&usqp=CAU" group-title="* All 20032021",RTP TV
+NFUzTXQ1U016UXpOMkVUTjFjM1gwTlhhc3RtYjFoMll2VW1kcHhtTHlnMll2OHlYME5uYnBaV1prOTFMeWcyWXY4V2J1MDJiajVTYmtSbkwwVW1kcHgyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="& PrivÃ© HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="* All 20032021",& PrivÃ© HD
+PT1BTzFOVGJ1Z1haazVXYXZFVFl4WVhMenQyWWhKSGR2UUdhbFpYYXlCSFp1RjJMMFZtYnU0R1pqZEhhdXcyY3o1U09oUmphNGNYTjU5eUw2TUhjMFJIYQ==
 
 //IN Sports//
 
@@ -225,9 +276,7 @@ PWdUZHowbUw0VkdadWwyTG1CalloVldPeVlHTzFRVFppWmpOaFZqTXpRek56SXpOemNET2hGR05qUjJM
 #EXTINF:-1 tvg-name="Spacetoon (1080p)" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="* All 20032021",Spacetoon (1080p)
 NFUzTXQ1Q2VsUm1icDlpTXdNV1poWnpObGxqWjVFVE1rVlRPaE4yWTBNalp6RTJNM2NqWXdRak0yOFNNMjlDZDE5MkwwVm1idVFXYW9GR2F6NWlZMVJXTGs5bWN3MWlidjlHZGxOV1l3TlhMenhHYXo5eUw2TUhjMFJIYQ==
 
-//India Entertainment//
-#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="* All 20032021",CNN International
-PT13TDRFVE8yRWpPeFFqTDFNak11SWpOeDR5TXdJekx2b0RjMFJIYQ==
+//IN Discovery//
 
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU" group-title="* All 20032021",DW
 PT1BTzFOVGJ1Z1haazVXYXZBSE15Y3pYdWxtTEVoRWF6bEdibjVXUlhSa0wwSURNNDhDWm85MWNzaDJMMFZtYnVrMmR1eEdidU1uTHpCSGNoSmphdEFUTXdNV0x0OXlMNk1IYzBSSGE=
@@ -235,137 +284,8 @@ PT1BTzFOVGJ1Z1haazVXYXZBSE15Y3pYdWxtTEVoRWF6bEdibjVXUlhSa0wwSURNNDhDWm85MWNzaDJM
 #EXTINF:-1 tvg-name="Fox Life HD" tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="* All 20032021",Fox Life HD
 NFUzTXQ1Q2R6bEdicjVXZG9OMkxzbFdiejV5Y3NoMlhraFdabWxHYjQ5bVp2VW1kcHhHZXZaMkwwVm1idWtYWXNCSGR3Wm1MdVIyWWxaWGFzOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="* All 20032021",HBO Hits
-NFUzTXQ1Q2VsUm1icDl5VVVsRVN2NFdhaDEyTGxaWGFzOWlicGRXYXk5Mkx6UURONG9UYnZObUxobDJjaDkyWnZKR2F1RURNdWwyWnBKM2JsWlhhczl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-name="Madha TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtWLfpCe-J0G4yJ57dgi39n6IWtKYDuO0-dxlweYms-OObRI2s&usqp=CAU" group-title="* All 20032021",Madha TV
-PWdUZHowbUx3VVRNM1VETnpBek0zOUZkemxHYnI1V2RvTjJMd1JFU2YxV1lsSkhkejVpZDBGR2FrRldidllIZGhoR1poMTJMMU1UT3hvVE51VUROdWtETXg0eU13RXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-name="MBC Action HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRid8POkCIa-DJFcj71DtwJ_7Ylan1ZhfjdxxnmyTTbBU1H41i-&usqp=CAU" group-title="* All 20032021",MBC Action HD
-PWdUZHowbUx5OEZlbFJtYnA5aVl3VURNa2xUT3hJak0wSUROalpUT3dBak4wVVRaNE1UTnhZek5rUkdPMjhTTTI5Q2QxOTJMMFZtYnVRV2FvRkdhejVpWTFSV0xrOW1jdzFpYnZsR2RqRjJZaTFXTHp4R2F6OXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-name="MBC Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdOU1MURm3ElUStHv-_h_pA0OC60RWTlH2Rw&usqp=CAU" group-title="* All 20032021",MBC Max HD
-PWdUZHowbUx5OEZlbFJtYnA5eU0xWVRaeUVtTjJVR096TUdPNEVXTzBJelkwWURPaFIyWTNFV054Z3pNeDhTTTI5Q2QxOTJMMFZtYnVRV2FvRkdhejVpWTFSV0xrOW1jdzFDZWgxMllpMVdMenhHYXo5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-name="My Cinema" tvg-logo="https://i.ibb.co/9YQzGcW/My-Cinema.jpg" group-title="* All 20032021",My Cinema
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVpTXdWWExoMVdadWwyWTUxMkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNUNldzFXWjA5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-name="Outdoor Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDeV5WGTJ3YnWvK-wZNPAXencA75lW_Z1nTA&usqp=CAU" group-title="* All 20032021",Outdoor Channel
-PWdUZHowbUwwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhbUozYnZSR2QxOTJMa3htY3ZkM0wwVm1idWtYWXNCSGR3Wm1MdVIyWWxaWGFzOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-name="Quran TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="* All 20032021",Quran TV
-PTAyYmo1Q2RoTjJjc2htTzVKR1psdDJZbGgyWS9nVGR6MG1MdUZtYzFGM1hwUldkaE4zTHhNSGJvOWliaEpYZHg5VmFrVlhZejl5YXpsR1p0Rm1jdlVtZHB4MkwwVm1idVFXWjZsV1l0RjJhaDVDZHpGMllsSjJic2RXTHp4R2F0UVdiaDVHWmo5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-name="RTP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBsRDpDOCl8LWSFDqpw6_ljNRPLBYlnlQqqA&usqp=CAU" group-title="* All 20032021",RTP TV
-NFUzTXQ1U016UXpOMkVUTjFjM1gwTlhhc3RtYjFoMll2VW1kcHhtTHlnMll2OHlYME5uYnBaV1prOTFMeWcyWXY4V2J1MDJiajVTYmtSbkwwVW1kcHgyTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-name="Sunna TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU" group-title="* All 20032021",Sunna TV
-dDkyWXVRWFlqTkhib3BUZWlSV1pyTldab04yUDRVM010NUNhaDVtYjFOM1hwUldkaE4zTHhNSGJvOUNhaDVtYjFOM1hwUldkaE4zTHJOWGFrMVdZeTlTWjJsR2J2UVhadTVDWmxwWGFoMVdZckZtTDBOWFlqVm1ZdngyWnRNSGJvMUNadEZtYmtOMkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-name="9XM" tvg-logo="" group-title="* All 20032021",9XM
-NFUzTXQ1Q08wOFNadTltZXlGMmJ5OVNabEpuWnZVbWRweDJMeFlETjFJak92Wm1icDVTWnU5bWV5RjJieTV5TXlWbWR5VjJjMlIzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-name="Zing" tvg-logo="" group-title="* All 20032021",Zing
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2RVRZeFlYTHp0MlloSkhkdmNtYnBwM0wwVm1idTRHWmpkSGF1dzJjejVTT2hSamE0Y1hONTl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-name="La Mega Mundial" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320" group-title="* All 20032021",La Mega Mundial
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2SURiaGxHWnVWWGJoZFdadEZHYnZ3V1lwUm1iMTFXWW5WV2JoeDJMMFZtYnVzMll2eFdiaFZtYzBObkxsaERaa1ZEWmtWR054VVRPMTh5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-id="9XM.in" tvg-name="9xM (1)" tvg-logo="" group-title="* All 20032021",9xM (1)
-PUlLaGliRlZ0VW1kcHgwUDRVM010NUNNd1l6TjNnVFB2VkdacFpYTHdBRE00QWpNOVFtYjE5bE00UURPd0l6WHZsR1oxRldMTmhWT3Z3V2J6bG1MTmhWT3YwRVc1OGlkMDF5YXdKMkwwVm1idVFuYnZKblprVjNic05tTHJGbVl3TlhObEJITndoVGN5UTJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Wow Music" tvg-logo="" group-title="* All 20032021",Wow Music
-PT1BTzFOVGJ1VW1kcHgyTHp4R2F1bDJkdmQzTHVsbUx2Tm1MNDltWWxaWGFzNVNaMjlHYnA5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-id="MusicIndia.uk" tvg-name="Music India" tvg-logo="" group-title="* All 20032021",Music India
-PUlLaGliRlZ0VW1kcHgwUDRVM010NWlicDVTWXBSbWJKTldhelZYVHVRRE15QXpMa2gyWHp4R2F2UVhadTVTYTM1R2JzNXljdU1IY3dGbU1xMVNNd01XTHQ5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Music Mastii" tvg-logo="" group-title="* All 20032021",Music Mastii
-PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MNFZHWnVsMkxwa0dhME5YWU5oQ2JsNW1iaGgyUXZVbWRweDBMcGhHZHpGV2J2UW5ibFJuYnZOMEwxZ2pMd1lUTXVrVE94NHlNd0V6THZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9x Jalwa (1)" tvg-logo="" group-title="* All 20032021",9x Jalwa (1)
-PUlLaGliRlZ0VW1kcHgwUDRVM010NUNlbFJtYnA5Q2N3Z0ROZjVXYXVFMmRzRm1TWWxqTHhnek53OFNaMmxHYnZRWFp1NVNhMzVHYnM1eWN1TUhjd0ZtTXExU013TVdMdDl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9x Jalwa (2)" tvg-logo="" group-title="* All 20032021",9x Jalwa (2)
-NFUzTXQ1Q013WXpOM2dUUHZWR1pwWlhMd0FETTRBak05UW1iMTlsTTRRRE93SXpYdmxHWjFGV0xoZEhiaHBFVzU4Q2J0TlhhdUUyZHNGbVNZbHpMaGRIYmhwRVc1OGlkMDF5YXdKMkwwVm1idVFuYnZKblprVjNic05tTHJGbVl3TlhObEJITndoVGN5UTJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9x Tashan" tvg-logo="" group-title="* All 20032021",9x Tashan
-PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MdWxtTHVGR2F6RkdWWWxqTHdNek53OFNaMmxHYnZRWFp1NVNhMzVHYnM1eWN1TUhjd0ZtTXExU013TVdMdDl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" tvg-logo="" group-title="* All 20032021",Sangeet Bhojpuri
-PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYdWxtTHBKWGR3cDJib0pFZGxWMlp1RjJVdUl6TTBBekx6eEdhdlFYWnU1U2EzNUdiczV5Y3VNSGN3Rm1NcTFTTXdNV0x0OXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Dil Se" tvg-logo="" group-title="* All 20032021",Dil Se
-aVNvNFdSVkxsWlhhTTlETzFOVGJ1UTNjcHhXZWh4R2N2VTJjdHdXYWs5aWNoVm1icHgyTHQ5Mll1RVdiaGRtYjFobUxsWlhhczl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Pop पटाखा" tvg-logo="" group-title="* All 20032021",Pop पटाखा
-PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MME5YYXNsWFlzQjNMaHRXWTBGR2N0QTNidzlpY2hWbWJweDJMdDkyWXVFV2JoZG1iMWhtTGxaWGFzOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Kadak Hits" tvg-logo="" group-title="* All 20032021",Kadak Hits
-PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MME5YYXNsWFlzQjNMelJYYW8xeWFoUldZcjlpY2hWbWJweDJMdDkyWXVFV2JoZG1iMWhtTGxaWGFzOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV" tvg-logo="" group-title="* All 20032021",MTV
-aVNvNFdSVkxsWlhhTTlETzFOVGJ1SVhaME5YWXQ5Q055UWpOME1EUXg4MWJ1WkhkdDlTYXZRWFp1NUNab2xXWXRGMmFoNUNhczFTZGxaSGR0Vm1kcHhXYXVWM0x2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Beats HD" tvg-logo="" group-title="* All 20032021",MTV Beats HD
-PVFHY3Q1aWNsUjNjaDEyTHpSWFlsSm1kMDEyTDNRVE40SURPdlVtZHB4MkxvTlhZazlDZGw1bUxraFdhaDFXWXJGbUxwMUNkdjltZGxaWGFzOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-id="1hdru" tvg-name="1HD Music" tvg-logo="" group-title="* All 20032021",1HD Music
-PUlLaGliRlZ0VW1kcHgwUDRVM010NUNlbFJtYnA5U01oRmpkdE0zYWpGbWMwOXlZcE5YZHRSR2FsNTJidlVuY3U4V1prbG1kdVIyWXVRWFp1TkdkdjF5Y3NoV0wxSkhab0Z6THZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Desi Channel" tvg-logo="" group-title="* All 20032021",Desi Channel
-PUlLaGliRlZ0VW1kcHgwUDRVM010NXlidTlXYnZBSFp6NWlZMFVtTXdjallrWm1aaFJqWjNjelkxRUdNM0ltTjBRV1poQkRaa0pUWjM4Q2JsNW1iaGgyWXBOWFprOUNkbDVtTHVSMll1MTJkdVVtZHB4Mkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Sakkat" tvg-logo="" group-title="* All 20032021",Sakkat
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2UVhZcnRXWXo5aWNoVm1icHgyTHQ5Mll1RVdiaGRtYjFobUxsWlhhczl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-id="ext" tvg-name="M4 Malayalam" tvg-logo="" group-title="* All 20032021",M4 Malayalam
-PWdUZHowbUxsWlhhczl5Y3NoV2JoeFdZNUZHYmgxbWMxOW1adDlTWjJsR2J1MFdZbEpIZHpSVGJ1QUhjaDl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Mk Tunes" tvg-logo="" group-title="* All 20032021",Mk Tunes
-NFUzTXQ1Q2VsUm1icDlTS3lBREt0RldaeVIzVXZreWNsNVdkVXRVVG93V1p1NVdZb04wTGxaWGFNOXljbDVXZDB0V2J2UW5ibFJuYnZOMEwxZ2pMd1lUTXVrVE94NHlNd0V6THZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Balle Balle" tvg-logo="" group-title="* All 20032021",Balle Balle
-PWdUZHowbUxseEdiaEpXWnN4V1lpOXljc2hXYnZOV1lwWjNMdDkyWXU0MmJwUlhkczkyYzJSWGEweFdkdDVpWXQwMmJqRldhMjl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-id="KalaignarIsaiAruvi.in" tvg-name="Isai Aruvi" tvg-logo="" group-title="* All 20032021",Isai Aruvi
-NFUzTXQ1Q2VsUm1icDlTS3BaWGR5RlVhaE5YU293V1p1NVdZb04wTGxaWGFNOVNhMlZuY2hsV1l6bDJMMDVXWjA1MmJEOUNOMUlqTHhZVE11a1RPeDR5TXdFekx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV YO!" tvg-logo="" group-title="* All 20032021",MTV YO!
-PT1BTzFOVGJ1SVhaME5YWXQ5U013TWxRREZVU1c5U1oybEdidkVETXZSWGRzQjNMeVZHYms1V1lvTjJMek5YWnlkV1p2UVhadTVpZDA5R2QxeEdjdVVtZHB4V0x2Ulhkc0IzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Biggest Pop" tvg-logo="" group-title="* All 20032021",MTV Biggest Pop
-PT1BTzFOVGJ1SVhaME5YWXQ5aU13TWxRREZVU1c5U1oybEdidkVETXZSWGRzQjNMeVZHYms1V1lvTjJMek5YWnlkV1p2UVhadTVpZDA5R2QxeEdjdVVtZHB4V0x2Ulhkc0IzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Block Party" tvg-logo="" group-title="* All 20032021",MTV Block Party
-PT1BTzFOVGJ1SVhaME5YWXQ5eU13TWxRREZVU1c5U1oybEdidkVETXZSWGRzQjNMeVZHYms1V1lvTjJMek5YWnlkV1p2UVhadTVpZDA5R2QxeEdjdVVtZHB4V0x2Ulhkc0IzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV Spankin' New" tvg-logo="" group-title="* All 20032021",MTV Spankin' New
-PT1BTzFOVGJ1SVhaME5YWXQ5eU53TWxRREZVU1c5U1oybEdidkVETXZSWGRzQjNMeVZHYms1V1lvTjJMek5YWnlkV1p2UVhadTVpZDA5R2QxeEdjdVVtZHB4V0x2Ulhkc0IzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="ext" tvg-name="MTV WMA" tvg-logo="" group-title="* All 20032021",MTV WMA
-PT1BTzFOVGJ1SVhaME5YWXQ5Q093TWxRREZVU1c5U1oybEdidkVETXZSWGRzQjNMeVZHYms1V1lvTjJMek5YWnlkV1p2UVhadTVpZDA5R2QxeEdjdVVtZHB4V0x2Ulhkc0IzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-name="B4U MOVIES" tvg-logo="" group-title="* All 20032021",B4U MOVIES
-NFUzTXQ1U04wOFNadTltZXlGMmJ5OVNabEpuWnZVbWRweDJMeFlETjFJak92Wm1icDVTWnU5bWV5RjJieTV5TXlWbWR5VjJjMlIzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-name="HBO" tvg-logo="" group-title="* All 20032021",HBO
-NFUzTXQ1aU0wOFNadTltZXlGMmJ5OVNabEpuWnZVbWRweDJMeFlETjFJak92Wm1icDVTWnU5bWV5RjJieTV5TXlWbWR5VjJjMlIzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-name="SONY PIX" tvg-logo="" group-title="* All 20032021",SONY PIX
-NFUzTXQ1U00wOFNadTltZXlGMmJ5OVNabEpuWnZVbWRweDJMeFlETjFJak92Wm1icDVTWnU5bWV5RjJieTV5TXlWbWR5VjJjMlIzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="& PrivÃ© HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="* All 20032021",& PrivÃ© HD
-PT1BTzFOVGJ1Z1haazVXYXZFVFl4WVhMenQyWWhKSGR2UUdhbFpYYXlCSFp1RjJMMFZtYnU0R1pqZEhhdXcyY3o1U09oUmphNGNYTjU5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Zee Anmol Cinema" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-anmol-cinema-logo-300x300.jpg" group-title="* All 20032021",Zee Anmol Cinema
-NFUzTXQ1Q2VsUm1icDlTYnVOR2J2MW1iaHAzTDBWbWJ1NEdaamRIYXV3MmN6NVNPaFJqYTRjWE41OXlMNk1IYzBSSGE=
-
 #EXTINF:-1 tvg-name="Food 52" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO_F8T3_Ow1_Od8Eqtz692_3VxF6YgnIWnsw&usqp=CAU" group-title="* All 20032021",Food 52
 PT1BTzFOVGJ1Z1haazVXYXZBRE13QURNd1V6WHdJek40QkRPeUV6TE9SMFF2SVROazkyYm0xU1F5RWpNeDhXYjFoM1hoUlhZazkxY3NoMlhwZFdZdEYyTHQ5Mll1OFdiMWhuTHlrV1lrOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-id="hdfashion" tvg-name="HDFashion" tvg-logo="https://i.imgur.com/LtQL1q9.jpg" group-title="* All 20032021",HDFashion
-NFUzTXQ1Q2VsUm1icDlDWnAxMlhoVjNYdTlXYW9OWFltUkdhdk1IYm85U054RWpMM1FqTDNZakwxa3pMdm9EYzBSSGE=
 
 #EXTINF:-1 tvg-name="Animal Planet HD (English)" tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="* All 20032021",Animal Planet HD (English)
 PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOUZkbDVXWXNCSGJoMVdhdUYyTGxaWGFzUlhadUYzTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
@@ -412,6 +332,65 @@ PT1BTzFOVGJ1a0dadWxHYWtoMllzUjNMdlpIWnA5U2J2Tm1MdTlXYTBWSGJ2Tm5kMGxHZHNWWGJ1NFdh
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="* All 20032021",DW
 PTQyYnBSWGRzOTJVV1JGVUpCMFA0VTNNdDVDY3RZWFlmRnpYNFZHWnVsMkw1SXpNeE1UTUFWbWRweDJYMDBXWWxKSGR6ZEhadmsyTDBWbWJ1UUdhcEZXYmh0V1l1Z0didFFUYmhWbWMwTjNkazl5TDZNSGMwUkhh
 
+#EXTINF:-1 tvg-id="NGCHD.uk" tvg-name="NAT GEO HD (5)" tvg-logo="" group-title="* All 20032021",NAT GEO HD (5)
+PWdUZHowbUx2VjJaMEZtYnZVM010OVNidk5tTGtsV1p1bEdidTltZDBGak1yeG1MdjlHZXY5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="NGCWild.eu" tvg-name="NAT GEO WILD (2)" tvg-logo="" group-title="* All 20032021",NAT GEO WILD (2)
+NFUzTXQ1Q1pzbDJkdlYyWjBGbWJ2VTNNdDlTYnZObUxrbFdadWxHYnU5bWQwRmpNcnhtTHY5R2V2OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT PEOPLE HD (2)" tvg-logo="" group-title="* All 20032021",NAT PEOPLE HD (2)
+PWdUZHowbUxseEdjdlZHY3ZWMlowRm1idlUzTXQ5U2J2Tm1Ma2xXWnVsR2J1OW1kMEZqTXJ4bUx2OUdldjl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="BBC Lifestyle" tvg-logo="" group-title="* All 20032021",BBC Lifestyle
+PUlLaGliRlZ0VW1kcHgwUDRVM010NWlOMDhDVXRZRlZOOVNheUZHYVQ5U1oybEdidlV6TTVFak9sWlhhczVpZDBsMmF1WUhkd2wyTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="ext" tvg-name="History TV" tvg-logo="" group-title="* All 20032021",History TV
+PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MME5YYXN0bWIxaDJZdkFITXljelhFaFVXUzlFVlRsRVNmSkRNdjAyYmo1eWNsbG1kdjEyYnZSV1oybEdidWMzZDM5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-id="H2.uk" tvg-name="History 2" tvg-logo="" group-title="* All 20032021",History 2
+PUlLaGliRlZ0VW1kcHgwUDRVM010NUNkemxHYnI1V2RvTjJMd0JqTTM4RlJJSkRTZkpETXYwMmJqNXljbGxtZHYxMmJ2UldaMmxHYnVjM2QzOXlMNk1IYzBSSGE=
+
+//IN News//
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="IN",Al Jazeera
+PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTGhKWFpscFhZcXhXWXZrRVZRNUdhUWxXWXhVelZoUm5VWEYyY0dSV2JQUkZVejRrVmxkbFJGUjFRS1ZrV05aMVJqWm5aNTFrZUpGalQ2VkdNVkJETVVwVlM0ZFZXeWtqUmlwblJsRjJiRlIyWkJSbFQyRWxlbkpsTlZSVVNIQlRSRTFVZTRrblQ0aFRhTmxUVkZKR2NTaERXNVpWYmtsblZhTjJMMFFETjYwMmJqNUNaaTkyWmhwbUxsSlhkMEZtYm5sMmN3MVdaMDl5TDZNSGMwUkhh
+
+//IN Islamic//
+
+#EXTINF:-1 tvg-name="Quran TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="* All 20032021",Quran TV
+PTAyYmo1Q2RoTjJjc2htTzVKR1psdDJZbGgyWS9nVGR6MG1MdUZtYzFGM1hwUldkaE4zTHhNSGJvOWliaEpYZHg5VmFrVlhZejl5YXpsR1p0Rm1jdlVtZHB4MkwwVm1idVFXWjZsV1l0RjJhaDVDZHpGMllsSjJic2RXTHp4R2F0UVdiaDVHWmo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-name="Sunna TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU" group-title="* All 20032021",Sunna TV
+dDkyWXVRWFlqTkhib3BUZWlSV1pyTldab04yUDRVM010NUNhaDVtYjFOM1hwUldkaE4zTHhNSGJvOUNhaDVtYjFOM1hwUldkaE4zTHJOWGFrMVdZeTlTWjJsR2J2UVhadTVDWmxwWGFoMVdZckZtTDBOWFlqVm1ZdngyWnRNSGJvMUNadEZtYmtOMkx2b0RjMFJIYQ==
+
+//IN Music//
+
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV" tvg-logo="" group-title="* All 20032021",MTV
+aVNvNFdSVkxsWlhhTTlETzFOVGJ1SVhaME5YWXQ5Q055UWpOME1EUXg4MWJ1WkhkdDlTYXZRWFp1NUNab2xXWXRGMmFoNUNhczFTZGxaSGR0Vm1kcHhXYXVWM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-id="1hdru" tvg-name="1HD Music" tvg-logo="" group-title="* All 20032021",1HD Music
+PUlLaGliRlZ0VW1kcHgwUDRVM010NUNlbFJtYnA5U01oRmpkdE0zYWpGbWMwOXlZcE5YZHRSR2FsNTJidlVuY3U4V1prbG1kdVIyWXVRWFp1TkdkdjF5Y3NoV0wxSkhab0Z6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV YO!" tvg-logo="" group-title="* All 20032021",MTV YO!
+PT1BTzFOVGJ1SVhaME5YWXQ5U013TWxRREZVU1c5U1oybEdidkVETXZSWGRzQjNMeVZHYms1V1lvTjJMek5YWnlkV1p2UVhadTVpZDA5R2QxeEdjdVVtZHB4V0x2Ulhkc0IzTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Biggest Pop" tvg-logo="" group-title="* All 20032021",MTV Biggest Pop
+PT1BTzFOVGJ1SVhaME5YWXQ5aU13TWxRREZVU1c5U1oybEdidkVETXZSWGRzQjNMeVZHYms1V1lvTjJMek5YWnlkV1p2UVhadTVpZDA5R2QxeEdjdVVtZHB4V0x2Ulhkc0IzTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Block Party" tvg-logo="" group-title="* All 20032021",MTV Block Party
+PT1BTzFOVGJ1SVhaME5YWXQ5eU13TWxRREZVU1c5U1oybEdidkVETXZSWGRzQjNMeVZHYms1V1lvTjJMek5YWnlkV1p2UVhadTVpZDA5R2QxeEdjdVVtZHB4V0x2Ulhkc0IzTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Spankin' New" tvg-logo="" group-title="* All 20032021",MTV Spankin' New
+PT1BTzFOVGJ1SVhaME5YWXQ5eU53TWxRREZVU1c5U1oybEdidkVETXZSWGRzQjNMeVZHYms1V1lvTjJMek5YWnlkV1p2UVhadTVpZDA5R2QxeEdjdVVtZHB4V0x2Ulhkc0IzTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV WMA" tvg-logo="" group-title="* All 20032021",MTV WMA
+PT1BTzFOVGJ1SVhaME5YWXQ5Q093TWxRREZVU1c5U1oybEdidkVETXZSWGRzQjNMeVZHYms1V1lvTjJMek5YWnlkV1p2UVhadTVpZDA5R2QxeEdjdVVtZHB4V0x2Ulhkc0IzTHZvRGMwUkhh
+
+//IN Fasion//
+
+#EXTINF:-1 tvg-id="hdfashion" tvg-name="HDFashion" tvg-logo="https://i.imgur.com/LtQL1q9.jpg" group-title="* All 20032021",HDFashion
+NFUzTXQ1Q2VsUm1icDlDWnAxMlhoVjNYdTlXYW9OWFltUkdhdk1IYm85U054RWpMM1FqTDNZakwxa3pMdm9EYzBSSGE=
+
 #EXTINF:-1 tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="* All 20032021",Zee Cafe HD
 NFUzTXQ1Q2VsUm1icDlTTWhGamR0TTNhakZtYzA5Q1pvVm1aaE5XWmxwM0wwVm1idTRHWmpkSGF1dzJjejVTT2hSamE0Y1hONTl5TDZNSGMwUkhh
 
@@ -427,14 +406,8 @@ NFUzTXQ1Q2VsUm1icDlDWm9oWGFzWkdadUYyTDBWbWJ1NEdaamRIYXV3MmN6NVNPaFJqYTRjWE41OXlM
 #EXTINF:-1 tvg-id="AlJazeeraArabe.nws" tvg-name="Al Jazeera HD (1)" tvg-logo="" group-title="* All 20032021",Al Jazeera HD (1)
 aVNvNFdSVkxsWlhhTTlETzFOVGJ1SURNdlVrU0I5Q2RsNW1McUZHZGxkbUxscFdZdElXWjMxeWNzaFdMbFpYYXM5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="AlJazeera.nws" tvg-name="Al Jazeera	(4)" tvg-logo="" group-title="* All 20032021",Al Jazeera	(4)
-PT1BTzFOVGJ1SURNdlVrU0I5Q2RsNW1McUZHZGxkbUxscFdZdElXWjMxeWNzaFdMbFpYYXM5eUw2TUhjMFJIYQ==
-
 #EXTINF:-1 tvg-id="RussiaToday.uk" tvg-name="RT News HD" tvg-logo="" group-title="* All 20032021",RT News HD
 PUlLaGliRlZ0VW1kcHgwUDRVM010NWlZTEJETTFJelgxQVRNeDhDTTRvRGRsNW1MMDVXYXlCSGR2OW1adVVtYzFOV1p6NVNZelZYTDBKM0x2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="BBC News" tvg-logo="" group-title="* All 20032021",BBC News
-M0VUTzJFak94UWpMMU1qTXVJak54NHlNd0l6THZvRGMwUkhh
 
 #EXTINF:-1 tvg-id="CNN.nws" tvg-name="CNN" tvg-logo="" group-title="* All 20032021",CNN
 NEVUTzJFak94UWpMMU1qTXVJak54NHlNd0l6THZvRGMwUkhh
@@ -493,28 +466,7 @@ aVNvNFdSVkxsWlhhTTlETzFOVGJ1a0hicDFXWW05bVlvOXljc1ZtYnVGR2FqOWljbFIzY2gxMkx2bG1M
 #EXTINF:-1 tvg-id="HBOAdria.rs" tvg-name="HBO (1)" tvg-logo="" group-title="* All 20032021",HBO (1)
 aVNvNFdSVkxsWlhhTTlETzFOVGJ1OG1Zbzl5Y3NWbWJ1RkdhajlpY2xSM2NoMTJMdmxtTGlWSGEwbDJadVlIZDBWbWJ5RldiaDlpZDBSWFp1SlhZdEYyTHQ5Mll1UW5ibFJuYnZObWNsTlhkaVZIYTBsMlp1Y1hZeTl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="NGCHD.uk" tvg-name="NAT GEO HD (5)" tvg-logo="" group-title="* All 20032021",NAT GEO HD (5)
-PWdUZHowbUx2VjJaMEZtYnZVM010OVNidk5tTGtsV1p1bEdidTltZDBGak1yeG1MdjlHZXY5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-id="NGCWild.eu" tvg-name="NAT GEO WILD (2)" tvg-logo="" group-title="* All 20032021",NAT GEO WILD (2)
-NFUzTXQ1Q1pzbDJkdlYyWjBGbWJ2VTNNdDlTYnZObUxrbFdadWxHYnU5bWQwRmpNcnhtTHY5R2V2OXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-id="ext" tvg-name="NAT PEOPLE HD (2)" tvg-logo="" group-title="* All 20032021",NAT PEOPLE HD (2)
-PWdUZHowbUxseEdjdlZHY3ZWMlowRm1idlUzTXQ5U2J2Tm1Ma2xXWnVsR2J1OW1kMEZqTXJ4bUx2OUdldjl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-id="BBCLifestyle.pl" tvg-name="BBC Lifestyle" tvg-logo="" group-title="* All 20032021",BBC Lifestyle
-PUlLaGliRlZ0VW1kcHgwUDRVM010NWlOMDhDVXRZRlZOOVNheUZHYVQ5U1oybEdidlV6TTVFak9sWlhhczVpZDBsMmF1WUhkd2wyTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="ext" tvg-name="History TV" tvg-logo="" group-title="* All 20032021",History TV
-PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MME5YYXN0bWIxaDJZdkFITXljelhFaFVXUzlFVlRsRVNmSkRNdjAyYmo1eWNsbG1kdjEyYnZSV1oybEdidWMzZDM5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-id="H2.uk" tvg-name="History 2" tvg-logo="" group-title="* All 20032021",History 2
-PUlLaGliRlZ0VW1kcHgwUDRVM010NUNkemxHYnI1V2RvTjJMd0JqTTM4RlJJSkRTZkpETXYwMmJqNXljbGxtZHYxMmJ2UldaMmxHYnVjM2QzOXlMNk1IYzBSSGE=
-
-
-
-
-"Non Identified"
 
 
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="* All 20032021",T Sports HD
