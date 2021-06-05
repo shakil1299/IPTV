@@ -2,9 +2,6 @@
 
 #11112020
 
-#EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",&privé HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="EKUSHEY TV (1)" tvg-logo="" group-title="Bangladesh",EKUSHEY TV
 PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MejBXWWxKSGR6Vm1kcHgyTDA1V1oyVldaMmxHYnY4RmR6NVdhbVZHWmY5aWNudEdjbFpYYXM5U1oybEdidE1IYm85U2J2Tm1MeVZtZHlWMmM1VkdhelYzYWw5eUw2TUhjMFJIYQ==
 
@@ -131,8 +128,14 @@ PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYdWxtTHpWV2EyOVdUNGxHYkdKa0wxUURNMTh5Y3NoMkwwVm1i
 
 //IN//
 
+#EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",&privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="IN",Al Jazeera
 PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTGhKWFpscFhZcXhXWXZrRVZRNUdhUWxXWXhVelZoUm5VWEYyY0dSV2JQUkZVejRrVmxkbFJGUjFRS1ZrV05aMVJqWm5aNTFrZUpGalQ2VkdNVkJETVVwVlM0ZFZXeWtqUmlwblJsRjJiRlIyWkJSbFQyRWxlbkpsTlZSVVNIQlRSRTFVZTRrblQ0aFRhTmxUVkZKR2NTaERXNVpWYmtsblZhTjJMMFFETjYwMmJqNUNaaTkyWmhwbUxsSlhkMEZtYm5sMmN3MVdaMDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="* All 20032021",Al Jazeera
+PT1BTzFOVGJ1TURNdlVrU0I5Q2RsNW1McUZHZGxkbUxscFdZdElXWjMxeWNzaFdMbFpYYXM5eUw2TUhjMFJIYQ==
 
 //IN Sports//
 
@@ -184,25 +187,13 @@ NFUzTXQ1U1A5RTBZM2xrZU9Sak4wOUZNd0FETXdnVE1pOUZkemxHYnI1V2RvTjJMc2xXYno1U2JoVm1j
 #EXTINF:-1 tvg-id="ext" tvg-name="Oman tv sport" tvg-logo="" group-title="IN Sports",Oman tv sport
 PWdUZHowbUw5RUVTTlJUUVUxRU4yUTNYd0FETXdBVE4wSTJYME5YYXN0bWIxaDJZdndXYXRObkx0RldaeVIzY3VRbmN2QjNjdDltT3NsV2J6OUNkeTlHY3oxMmJ2MDJiajV5YnM5V2J2ZG1iaDFtTHVSMll1VW1iMEpYWXc5eUw2TUhjMFJIYQ==
 
-//Cartoon//
-
-#EXTINF:-1 tvg-name="NICK BANGLA" tvg-logo="" group-title="* All 20032021",NICK BANGLA
-NFUzTXQ1U04xOFNadTltZXlGMmJ5OVNabEpuWnZVbWRweDJMeFlETjFJak92Wm1icDVTWnU5bWV5RjJieTV5TXlWbWR5VjJjMlIzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="* All 20032021",Cartoon Network
-NFUzTXQ1Q2R6bEdiNUZHYnc5eVNTOTBWVVZrVE85MFRVSlZRRDlDTjJFakwzY1RNdU1ETnk0aU56RXpMdm9EYzBSSGE=
+//IN Cartoon//
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Baby First" tvg-logo="" group-title="* All 20032021",Baby First
 PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOUZkekpYYW1sblloSjJMbFpYYXNSWFp1RjNMMFZtYnVrWFlzQkhkd1ptTHVSMllsWlhhczl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="" group-title="* All 20032021",北京卡酷少儿
-NFUzTXQ1Q2R6bDNMdTlHZGh0V2RyRjJhdlVtZHB4Mkx6TlhadWwyYzFKV0x1VkdkemwzTDFnRE00b0RNNTRDTXo0U016NFNNeUV6THZvRGMwUkhh
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Shemaroo Kids" tvg-logo="" group-title="* All 20032021",Shemaroo Kids
 PT1BTzFOVGJ1c1dZZlIzY3B4V2VoeEdjdndXWnU1V1lvTldMeUZXWnVsR2J0TUhacHQyTDBWM2I1Rkdid0pYWWw1V2FzOVNidk5tTGwxMmJ2SlhZdFZHYXo1Q2JsNW1iaGgyWWxaWGFzOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hungama Kids" tvg-logo="" group-title="* All 20032021",Hungama Kids
-enAzYzZSV2FyRldiaGRtYjFoMkxsWlhhczV5YzBOWGFzbFhZc0JYWjBGV2JwWlhhMDl5TDZNSGMwUkhh
 
 #EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="NICK Jr. (1)" tvg-logo="" group-title="* All 20032021",NICK Jr. (1)
 PT1BTzFOVGJ1c0dNMWd6WHpFak4wa3pOZlJYYWk5Q2RwSjJMMVExTG5KbUwyUlhac2xtWXYxbUx4NEdaajl5TDZNSGMwUkhh
@@ -228,28 +219,13 @@ aVNvNFdSVkxsWlhhTTlETzFOVGJ1UTNjcHhXZWh4R2N2c0dNd1VEZGx4bVloUjNMckJETTFRWFpzSldZ
 #EXTINF:-1 tvg-id="avi" tvg-name="Tom & Jerry" tvg-logo="" group-title="* All 20032021",Tom & Jerry
 MnRXYnVJRlZ1d0VSdElVUlg1Q2N3SXpOdWNUTXdJakw1SjNiME5XWUc1U1owRkdidk4yYm9Oa0xsaEdkdVFtYmg1U1lyNTJiWDVTZXN4V2FYNVNleUpYWks1Q1p1Rm1MdDlHVnZzV2RqOTJRdk1YWnBaM2J0RldibDVXYWpoMmNwdG1jMVIzTDFWbUwwSlhZdE5IY3BaM2MwNUNadlozTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-name="Tom & Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3ODhiNzAtOWY4MS00NTdiLThmNDctNDM4NjRiNGFmYjI1XkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_UY268_CR16,0,182,268_AL_.jpg" group-title="Cartoon"
-MEFYYnVRVlJDaFZNdUlVVkU1U1RCUmxMd2xtVUNWMFZ1QUhNeWNqTHhJRE15NFNleUpYWks1Q1p1Rm1MdDlHVnZNWGJzbG1aazVXYXYwV1lsSkhkejlDZHVWR2R1OTJZdllIZHVrMmNwdFdZckpYZDA1U000NEdaajl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="* All 20032021",Nick Junior
-PT1BWncxbUx5VkdkekZXYnZJM2JwNVdkcXQyWXA1Mkx6VWpOMmNET3ZVbWRweDJMb05YWWs5Q2RsNW1Ma2hXYWgxV1lyRm1McDFDZHY5bWRsWlhhczl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="* All 20032021",Sonic Hindi
-PVFHY3Q1aWNsUjNjaDEyTGpsbWJ2TjNMM1VqTjJjRE92VW1kcHgyTG9OWFlrOUNkbDVtTGtoV2FoMVdZckZtTHAxQ2R2OW1kbFpYYXM5eUw2TUhjMFJIYQ==
-
 #EXTINF:-1 tvg-name="Cartoon Network Arabic (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="* All 20032021",Cartoon Network Arabic (1080p)
 PWdUZHowbUw0VkdadWwyTG1CalloVldPeVlHTzFRVFppWmpOaFZqTXpRek56SXpOemNET2hGR05qUjJMeFkzTDBWM2J2UVhadTVDWnBoV1lvTm5MaVZIWnRRMmJ5QlhMMFZtYnQ0MmJ2Um5jaE5XTHp4R2F6OXlMNk1IYzBSSGE=
 
 #EXTINF:-1 tvg-name="Spacetoon (1080p)" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="* All 20032021",Spacetoon (1080p)
 NFUzTXQ1Q2VsUm1icDlpTXdNV1poWnpObGxqWjVFVE1rVlRPaE4yWTBNalp6RTJNM2NqWXdRak0yOFNNMjlDZDE5MkwwVm1idVFXYW9GR2F6NWlZMVJXTGs5bWN3MWlidjlHZGxOV1l3TlhMenhHYXo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="* All 20032021",Al Jazeera
-PT1BTzFOVGJ1TURNdlVrU0I5Q2RsNW1McUZHZGxkbUxscFdZdElXWjMxeWNzaFdMbFpYYXM5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="* All 20032021",Cinemax
-PT1BTzFOVGJ1TXpMWUZVVHY0V2FoMTJMbFpYYXM5aWJwZFdheTkyTHpRRE40b1Ridk5tTGhsMmNoOTJadkpHYXVFRE11bDJacEozYmxaWGFzOXlMNk1IYzBSSGE=
-
-//Indian Entertainment//
+//India Entertainment//
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="* All 20032021",CNN International
 PT13TDRFVE8yRWpPeFFqTDFNak11SWpOeDR5TXdJekx2b0RjMFJIYQ==
 
