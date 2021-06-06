@@ -402,6 +402,15 @@ NFUzTXQ1aWJwNXljM1ZtVGhsR1p1bGtMeVFETnc4eWNzaDJMMFZtYnVrMmR1eEdidU1uTHpCSGNoSmph
 #EXTINF:-1 tvg-logo="" group-title="* BDIX MX3",DW
 PWdUZHowbUx1bG1MRWhFYXpsR2JuNVdSWFJrTDBJRE00OENabzkxY3NoMkwwVm1idWsyZHV4R2J1TW5MekJIY2hKamF0QVRNd01XTHQ5eUw2TUhjMFJIYQ==
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9ts2fLPAt7U/hqdefault.jpg" group-title="* BDIX MX1",HUMRAZ TV
+PT1BTzFOVGJ1b1hZaEpYYjFoMkx6eEdhdjAyYmo1eWNsTldhMkpYWnpWbWJweG1idlZtZHB4bUx4WWpia04yTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uh8HAPY.jpg" group-title="* BDIX MX1",AVT KHYBER
+PT1BTzFOVGJ1QVhMMkYyWHdVVE1maFhaazVXYXZBek4ySVRPMkFVTWZWbWRweDJZazlTYXZRWFp1NUNab2xXWXRGMmFoNUNhczFDT3pVbWRweFdhdVYzWWs5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mqFWpXX.png" group-title="* BDIX MX1",Khyber TV
+NFUzTXQ1Q2N0WVhZZkJUTng4RmVsUm1icDlpTXlFak54QVVNZlZtZHB4MllrOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMXlNNFVtZHB4V2F1VjNZazl5TDZNSGMwUkhh
+
 //IN Discovery//
 
 #EXTINF:-1 tvg-name="Fox Life HD" tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="* All 20032021",Fox Life HD
@@ -443,6 +452,9 @@ PT1BTzFOVGJ1SVhaME5YWXQ5aVRFTjBMQkZXYmhKWGRqOUdadEVFTnpJVE12MVdkNDlWWTBGR1pmTkhi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="* BDIX MX1",Travel TV
 NFUzTXQ1Q2R6bEdiNUZHYnc5U2JoVm1jME5uTHNWbWRoSkhkdndXWjJGbWMwOVNOemtUTTZRRE14NHlNeUlqTHpFakx4TXpMdm9EYzBSSGE=
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="* BDIX MX1",FOX HD
+PWdUZHowbUx3QURNd0FqTXhJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhNDltWnZVbWRweEdldloyTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
+
 //IN Movies//
 
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",&privé HD
@@ -474,18 +486,6 @@ PT1BTzFOVGJ1Z1haazVXYXZRR2FsWlhheUJIWnVGMkwwVm1idTRHWmpkSGF1dzJjejVTT2hSamE0Y1hO
 
 #EXTINF:-1 tvg-name="& Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="* All 20032021",& Flix HD
 NFUzTXQ1Q2VsUm1icDlDWm9oWGFzWkdadUYyTDBWbWJ1NEdaamRIYXV3MmN6NVNPaFJqYTRjWE41OXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-id="AlJazeeraArabe.nws" tvg-name="Al Jazeera HD (1)" tvg-logo="" group-title="* All 20032021",Al Jazeera HD (1)
-aVNvNFdSVkxsWlhhTTlETzFOVGJ1SURNdlVrU0I5Q2RsNW1McUZHZGxkbUxscFdZdElXWjMxeWNzaFdMbFpYYXM5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-id="RussiaToday.uk" tvg-name="RT News HD" tvg-logo="" group-title="* All 20032021",RT News HD
-PUlLaGliRlZ0VW1kcHgwUDRVM010NWlZTEJETTFJelgxQVRNeDhDTTRvRGRsNW1MMDVXYXlCSGR2OW1adVVtYzFOV1p6NVNZelZYTDBKM0x2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-id="DW.al" tvg-name="DW (1)" tvg-logo="" group-title="* All 20032021",DW (1)
-PUlLaGliRlZ0VW1kcHgwUDRVM010NUNjdFlYWWZGelg0VkdadWwyTDVJek14TVRNQVZtZHB4MlgwMFdZbEpIZHpkSFp2azJMMFZtYnVRR2FwRldiaHRXWXVnR2J0UVRiaFZtYzBOM2RrOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-id="arirang-en" tvg-name="Arirang" tvg-logo="" group-title="* All 20032021",Arirang
-PUlLaGliRlZ0VW1kcHgwUDRVM010NUNkemxHYjVGR2J3OUNicDEyY3VnMll4ODFadUZtY3BKWFk2d1dhdE4zTG9OV01mZG1iaEpYYXlGMkwwVm1idVVHZHBWM2NsZEdabDVTYnZObUxrNUdkajVTTXdnMll0VW1kcHhHWnRGMkx2b0RjMFJIYQ==
 
 #EXTINF:-1 tvg-id="CinemaxO.mx" tvg-name="Cinemax (3)" tvg-logo="" group-title="* All 20032021",Cinemax (3)
 PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MeVZHZHpGV2J2Y21SU1IzU3lkVk9FTlVkWHBsVURKbE52cFVTVFIxTDA1V1oyVjJMenhHYXZJWFlsNVdhczlTYnZObUxseDJadjkyWnVrV1lrOXlMNk1IYzBSSGE=
@@ -555,6 +555,30 @@ bFpYYXM1aWQwUlhadUpYWXRGR1EvZ1RkejBtTHk4RmVsUm1icDlpWXdVRE1rbFRPeElqTTBJRE5qWlRP
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="* BDIX MX2",MBC Action FHD
 bFpYYXM1aWQwUlhadUpYWXRGR1EvZ1RkejBtTHg4RmVsUm1icDlpWXdVRE1rbFRPeElqTTBJRE5qWlRPd0FqTjBVVFo0TVROeFl6TmtSR08yOFNNMjlDZDE5MkwwVm1idVFXYW9GR2F6NWlZMVJXTGs5bWN3MWlidmxHZGpGMllpMVdMenhHYXo5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="* BDIX MX1",FOX Movies HD
+PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhelZXYTI5V2I0OW1adlVtZHB4R2V2WjJMMFZtYnVrWFlzQkhkd1ptTHVSMllsWlhhczl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="* BDIX MX1",Cinemax
+PWdUZHowbUx5VkdkekZXYnZjbVJTUjNTeWRWT0VOVWRYcGxVREpsTnZwVVNUUjFMMDVXWjJWMkx6eEdhdklYWWw1V2FzOVNidk5tTGx4Mlp2OTJadWtXWWs5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cPneq0f.png" group-title="* BDIX MX1",THRILL HD
+NFUzTXQ1U013OENOek0zTHo5eWRsbGpjM0YzTDFNakwxVVRNdUFUTXk0Q014SXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s6mC4VE.png" group-title="* BDIX MX1",Movies Kingdom
+bFpYYXM1aWQwUlhadUpYWXRGR1EvZ1RkejBtTGo5Q013QURNcjhTTTBFMk01QUROaWxUWnZRM2NoTkdaaDltY2k5U2J2Tm1MdVJtY3pwbUxoOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JKFgFNS.png" group-title="* BDIX MX1",Cinema World
+PVVtZHB4bUwyUkhkbDVtY2gxV1lBOURPMU5UYnVnWFprNVdhdlFETW85Q2F2TWpOMklUYzE5U00xNHlNNDRpTnlFakwxUXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="* BDIX MX1",AlFajer MOVIE
+PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1Q2R6bEdiNUZHYnc5aVlsZDNMaVYyZGY5MmRVUkVTMlJuY2xwV1lteFdRdkVET3dnak90OTJZdVlIZHlWbWFoWkdiaDV5YjNSM0x2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X3aDsYK.jpg" group-title="* BDIX MX1",CELESTIAL MOVIES
+PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1Q2VsUm1icDl5TXpNM0x6OXlkbGxqYzNGM0wxTWpMMVVUTXVBVE15NENNeEl6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5gJlGte.jpg" group-title="* BDIX MX1",Dove channel
+PWdUZHowbUx5VkdkekZXYnY0RVJEOXlkdjVXWjI5R1p0RUVOeklUTXYxV2Q0OVZZMEZHWmZOSGJvOVZhbkZXYmg5U2ExTjNjdTkyWXZRWFp1NUNaMzVHYnM1eWIyNVNibmxHWmw1V2FqOXlMNk1IYzBSSGE=
 
 //IN Sports//
 
@@ -923,181 +947,11 @@ PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNicDEyY3VNSGJvOUZPd0V6WHlOV1p6OVZaMGxtYmtsV2JmbERO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5p7CKwi.png" group-title="* BDIX MX1",HD Fashion & LifeStyle
 PWdUZHowbUw0VkdadWwyTHBoMlhoVjNYdTlXYW9OWFltUkdhdk1IYm85U054RWpMM1FqTDNZakwxa3pMdm9EYzBSSGE=
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYqVK91.png" group-title="* BDIX MX1",AAJ TAK HD
-PWdUZHowbUx5VkdkekZXYnZRR2FyRkdkcUZXWXZrR2NoOXlhaFJuYWhGMkx1bG1MNUZHWnZSbmJwNXlja1ZXWm05eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7kavMAI.png" group-title="* BDIX MX1",Wion TV
-NFUzTXQ1Q2R6bEdiNUZHYnc5U01oSmpkdE0zYWpGbWMwOWlidmwyZHZRWFp1NUNabHBYYWgxV1lyRm1MenhHYXoxV1kxbzNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VBjM4HO.png" group-title="* BDIX MX1",NDTV India
-PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1aWNsUjNjaDFXWXBSbWJwWkhkazUyTGhsR1p1bG1kMFJtYnZrek4yTURNd0l6TGxaWGFzOXljc2gyTDBWbWJ1UVdaNmxXWXRGMmFoNVNZdUZHYWpKWFl0VkdibEZXYWs1V2EyUkhadTl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GxKLahw.png" group-title="* BDIX MX1",NDTV 24x7
-PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1aWNsUjNjaDEyTjRSak0yUkhadTl5TjRSak0yUkhadTlDTzNZek13QWpNdlVtZHB4Mkx6eEdhdlFYWnU1Q1pscFhhaDFXWXJGbUxoNVdZb05tY2gxV1pzVjJONFJqTTJSSFp1OXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9n02RJU.jpg" group-title="* BDIX MX1",Amar Ujala
-bFpYYXM1aWQwUlhadUpYWXRGR1EvZ1RkejBtTDBOWGFzbFhZc0IzTHNsV2J6NVNNdEZXWnlSM2M2d1dhdE4zTGxaWGFzOVNidk5tTGh4V1lxVm5jaDFXWXU0R1pqMVdZbEpIZHo5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/361-3617902_http-www-indigital-co-635967475567880057-cnn-news-18.png" group-title="* BDIX MX1",CNN NEWS 18
-PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1U05mSlhaME5YWXQ5Q2R2OW1kNEV6YzNWbWJ1NTJZdllUTzRrVE8zOFNaMmxHYnZNSGJvOUNkbDVtTGtoV2FoMVdZckZtTHAxU1oybEdiMDkyYjI5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mmoYacu.jpg" group-title="* BDIX MX1",INDIA TODAY
-PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1aWNsUjNjaDEyTHBCWFl2TUhjd0ZHZHNoMkx1bG1MNUZHWnZSbmJwNXlja1ZXWm05eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NQ0WRUT.png" group-title="* BDIX MX1",DD News
-bFpYYXM1aWQwUlhadUpYWXRGR1EvZ1RkejBtTHlWR2R6Rldidk16TXhrRE0wQVVNZk4zZGw1R1prOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMVNNengyWXA1Mkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dOlCIQb.jpg" group-title="* BDIX MX1",Mirror Now
-PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1Q2N0WVhZZlp6TjE4RmVsUm1icDlTTjBVak4wTURReDhsVFMxMExwOUNkbDVtTGtoV2FoMVdZckZtTG94V0xpVjJkMzltYmkxMkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/ET_NOW_220px.png" group-title="* BDIX MX1",ET Now
-PVVtZHB4bUwyUkhkbDVtY2gxV1lBOURPMU5UYnVJV0wyRjJYMmNUTmZoWFprNVdhdkF6TndnRE56QVVNZjVFVkY5U2F2UVhadTVDWm9sV1l0RjJhaDVDYXMxU1oybEdiaVYyZDM5bWIwVjJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="* BDIX MX1",CNBC AWAAZ
-PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1Q2N0WVhZZlZ6WDRWR1p1bDJMeWNETzBjVE1BRnpYNkZXWTNGMllpNTJZdmsyTDBWbWJ1UUdhcEZXYmh0V1l1Z0didG9YWWhkWFlqSm1iajl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hwqJRrT.png" group-title="* BDIX MX1",92 News
-bFpYYXM1aWQwUlhadUpYWXRGR1EvZ1RkejBtTDBOWGFzbFhZc0IzTHdCak54OEZab0pUT3ZRR2F6ZFhadUpUT3ZRWFp1NVNadTlXYmhWbWMwTkhadTRHWjI1eWMzVm1ieWt6THZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="* BDIX MX1",Dunya News
-bFpYYXM1aWQwUlhadUpYWXRGR1EvZ1RkejBtTFdSMWMxaFhkc1owTHg4VloybEdiaGxuYjFSMkxmUjNjdWxtWmxSMlh2VW1kcHgyTDJSbkx6ZFhadUZXZXVWSFp1STJidGwyTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="* BDIX MX1",Khyber News
-PVVtZHB4bUwyUkhkbDVtY2gxV1lBOURPMU5UYnVJWFowTlhZdDl5TjNZak01WURReDhWWjJsR2JqUjJMcDlDZGw1bUxraFdhaDFXWXJGbUxveFdMNE1UWjJsR2JwNVdkalIyTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2VYyqS9.png" group-title="* BDIX MX1",HBO Signature
-PWdUZHowbUxZZFVTVDlrUUk5Q2NxbG5ick4zY3JSR2NrSkdic1IyTHo5U2J2Tm1MNDltWXc5bWNrNUNiazl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nOiPsyr.png" group-title="* BDIX MX1",HBO Hits
-NFUzTXQ1eVVUUlZTSTlrUUk5Q080UjNZMloyWnNGSE9vTkRjeGszTHo5U2J2Tm1MNDltWXc5bWNrNUNiazl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p5doERm.png" group-title="* BDIX MX1",HBO Family
-PT1BTzFOVGJ1MFVRRzlrUUk5aVp4eG1iMmRuWXFkM2J4MEdPMVZ6THo5U2J2Tm1MNDltWXc5bWNrNUNiazl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9whd4No.png" group-title="* BDIX MX1",HBO
-PWdUZHowbUxQOWtRSTl5ZHhFRGNodFdhMVluZHVGak0yQjNMejlTYnZObUw0OW1ZdzltY2s1Q2JrOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="* BDIX MX1",HBO
-PT1RUldsRVQ3UWxXSWhFUTJZVE13QURNd0FETXdBRE13QURNd0FETXdBalZVOVNaMmxHYnZrVE81a2pPMEVqTDVRVE11Z1ROeDRDTXlJekx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg" group-title="* BDIX MX1",Movies Now
-NFUzTXQ1aWNsUjNjaDEyTHN4V2R3OWxUTjlTWjJsR2J2WUhkdXdXWjBKWGFoNXlkdjUyY2wxV2EwOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="* BDIX MX1",MNX
-PT1BTzFOVGJ1SVhaME5YWXQ5Q2JzVkhjZmhsVE45U1oybEdidllIZHV3V1owSlhhaDV5ZHY1MmNsMVdhMDl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QPcVm2h.png" group-title="* BDIX MX1",MN+ HD
-elJuTDRNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="* BDIX MX1",FOX Movies HD
-PWdUZHowbUx3QURNd0FUTnlJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhelZXYTI5V2I0OW1adlVtZHB4R2V2WjJMMFZtYnVrWFlzQkhkd1ptTHVSMllsWlhhczl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pWnecuO.jpg" group-title="* BDIX MX1",TV 1000 HD
-PVVtZHB4bUwyUkhkbDVtY2gxV1lBOURPMU5UYnVFelg0VkdadWwyTEVoMFh3QURNeFlGVnZNSGJvOWlkMDVTWnk5V2J1RURNdGNtYnRVbWRweDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hbjBQFw.jpg" group-title="* BDIX MX1",TV 1000 Action HD
-bFpYYXM1aWQwUlhadUpYWXRGR1EvZ1RkejBtTHg4RmVsUm1icDlDUkk5bGJ2bEdkakYwWHdBRE14WUZWdk1IYm85aWQwNVNaeTlXYnVFRE10Y21idFVtZHB4Mkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FyUAJ7C.jpg" group-title="* BDIX MX1",ViP Premiere HD
-PVVtZHB4bUwyUkhkbDVtY2gxV1lBOURPMU5UYnVFelg0VkdadWwyTEVoMFhsSlhacDFXWnlCMVhRbG1Wdk1IYm85aWQwNVNaeTlXYnVFRE10Y21idFVtZHB4Mkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XZIWBAC.jpg" group-title="* BDIX MX1",ViP Megahit HD
-PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1U01maFhaazVXYXZRRVNmUlhhb0YyWmwxMFhRbG1Wdk1IYm85aWQwNVNaeTlXYnVFRE10Y21idFVtZHB4Mkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iQzzFcs.jpg" group-title="* BDIX MX1",ViP Comedy HD
-bFpYYXM1aWQwUlhadUpYWXRGR1EvZ1RkejBtTHg4RmVsUm1icDlDUkk5VmVrVldidk4wWFFsbVZ2TUhibzlpZDA1U1p5OVdidUVETXRjbWJ0VW1kcHgyTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="* BDIX MX1",Cinemax
-PWdUZHowbUx5VkdkekZXYnZjbVJTUjNTeWRWT0VOVWRYcGxVREpsTnZwVVNUUjFMMDVXWjJWMkx6eEdhdklYWWw1V2FzOVNidk5tTGx4Mlp2OTJadWtXWWs5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cPneq0f.png" group-title="* BDIX MX1",THRILL HD
-NFUzTXQ1U013OENOek0zTHo5eWRsbGpjM0YzTDFNakwxVVRNdUFUTXk0Q014SXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s6mC4VE.png" group-title="* BDIX MX1",Movies Kingdom
-bFpYYXM1aWQwUlhadUpYWXRGR1EvZ1RkejBtTGo5Q013QURNcjhTTTBFMk01QUROaWxUWnZRM2NoTkdaaDltY2k5U2J2Tm1MdVJtY3pwbUxoOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HGmC8ea.png" group-title="* BDIX MX1",24 Box TV
-PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1U2JoVm1jME4zTHp4R2F2Y1RPdUFUT3g0Q08xRWpMeFV6THZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JKFgFNS.png" group-title="* BDIX MX1",Cinema World
-PVVtZHB4bUwyUkhkbDVtY2gxV1lBOURPMU5UYnVnWFprNVdhdlFETW85Q2F2TWpOMklUYzE5U00xNHlNNDRpTnlFakwxUXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E932mKv.jpg" group-title="* BDIX MX1",Cine Film
-PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1eWJ1OVdidkVUWXhZWEx6dDJZaEpIZHZJVGVoSm1OejhsWXJCRE00OFZic2xtWnRVbWJwTldMNDltWTJSM1h2dFdhdWwyWnY0V2FuOWlNNUZtWTJNekx0OTJZdVlIZDZwM2JpOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="* BDIX MX1",AlFajer MOVIE
-PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1Q2R6bEdiNUZHYnc5aVlsZDNMaVYyZGY5MmRVUkVTMlJuY2xwV1lteFdRdkVET3dnak90OTJZdVlIZHlWbWFoWkdiaDV5YjNSM0x2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5FgT60n.png" group-title="* BDIX MX1",Film 4
-NEFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="* BDIX MX1",Sony Movies Action
-NUFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ko2DDM.jpg" group-title="* BDIX MX1",The ShortFilms
-PWdUZHowbUx1bG1MV1IxY3R4V2FHUm5jdmgyVXVFVE13Z3pMenhHYXZRWFp1NVNhMzVHYnM1eWN1TUhjd0ZtTXExU093TVdMdDl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X3aDsYK.jpg" group-title="* BDIX MX1",CELESTIAL MOVIES
-PT1RWjJsR2J1WUhkMFZtYnlGV2JoQjBQNFUzTXQ1Q2VsUm1icDl5TXpNM0x6OXlkbGxqYzNGM0wxTWpMMVVUTXVBVE15NENNeEl6THZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="* BDIX MX1",AXN HD
-elJuTHlRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="* BDIX MX1",Zee Cafe HD
-NFUzTXQ1Q2VsUm1icDlTTWhGamR0TTNhakZtYzA5Q1p6TjNZcEJIWnVGMkwwVm1idTRHWmpkSGF1dzJjejVTT2hSamE0Y1hONTl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="* BDIX MX1",FOX HD
-PWdUZHowbUx3QURNd0FqTXhJMlgwTlhhc3RtYjFoMll2d1dhdE5uTHp4R2FmUkdhNDltWnZVbWRweEdldloyTDBWbWJ1a1hZc0JIZHdabUx1UjJZbFpYYXM5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="* BDIX MX1",FOX HD [RUSSIA]
-PT1BTzFOVGJ1SXpYNFZHWnVsMkxFaDBYWTlrUnZNSGJvOWlkMDVTWnk5V2J1RURNdGNtYnRVbWRweDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ogzQuzh.jpg" group-title="* BDIX MX1",Cine Series
-bFpYYXM1aWQwUlhadUpYWXRGR1EvZ1RkejBtTHY1MmJ0OVNNaEZqZHRNM2FqRm1jMDlpTTVGbVkyTXpYaXRHTXdnelh6VldheVYyY3RVbWJwTldMNDltWTJSM1h2dFdhdWwyWnY0V2FuOWlNNUZtWTJNekx0OTJZdVlIZDZwM2JpOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5gJlGte.jpg" group-title="* BDIX MX1",Dove channel
-PWdUZHowbUx5VkdkekZXYnY0RVJEOXlkdjVXWjI5R1p0RUVOeklUTXYxV2Q0OVZZMEZHWmZOSGJvOVZhbkZXYmg5U2ExTjNjdTkyWXZRWFp1NUNaMzVHYnM1eWIyNVNibmxHWmw1V2FqOXlMNk1IYzBSSGE=
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gr1vLJm.jpg" group-title="* BDIX MX1",BritCom
 PWdUZHowbUx5VkdkekZXYnZFbFJycFZZS2RXTHpsR2JEQlZVYWhXWjFSRlNrbDBMMDVXWjJWMkx6eEdhdklYWWw1V2FzOVNidk5tTGx4Mlp2OTJadWtXWWs5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XNGvRJ6.jpg" group-title="* BDIX MX1",CBBC
-PT1BTzFOVGJ1OG1idjEyTHhFV00yMXljck5XWXlSM0x5a1hZaVp6TWZKMmF3QVRPZlZXWnloR2RqSm1ZZjkyYXA1V2FuOWlicGQyTHlrWFlpWnpNdjAyYmo1aWQwcG5ldkoyTHZvRGMwUkhh
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="* BDIX MX1",itv
 NFUzTXQ1Q013Z1RNdWxXWU45bGNsUjNjaDEyTHl3VVFVSjFUUUZqVlVsMExsWlhhc1pIZHA5aU4wWWpNd2N6TGxaWGFzOXljc2gyTDBWbWJ1UVdaNmxXWXRGMmFoNVNNc0ZHZHk5R2MwSjNid04zTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="* BDIX MX1",itv2
-MUFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="* BDIX MX1",itv3
-MkFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="* BDIX MX1",itv4
-M0FETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9ts2fLPAt7U/hqdefault.jpg" group-title="* BDIX MX1",HUMRAZ TV
-PT1BTzFOVGJ1b1hZaEpYYjFoMkx6eEdhdjAyYmo1eWNsTldhMkpYWnpWbWJweG1idlZtZHB4bUx4WWpia04yTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uh8HAPY.jpg" group-title="* BDIX MX1",AVT KHYBER
-PT1BTzFOVGJ1QVhMMkYyWHdVVE1maFhaazVXYXZBek4ySVRPMkFVTWZWbWRweDJZazlTYXZRWFp1NUNab2xXWXRGMmFoNUNhczFDT3pVbWRweFdhdVYzWWs5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mqFWpXX.png" group-title="* BDIX MX1",Khyber TV
-NFUzTXQ1Q2N0WVhZZkJUTng4RmVsUm1icDlpTXlFak54QVVNZlZtZHB4MllrOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMXlNNFVtZHB4V2F1VjNZazl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-ID="TV5.Asia" tvg-ID="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="* BDIX MX1",TV5 Monde
-NFUzTXQ1Q2VsUm1icDlpYmxWV2F6RldOMlIzTDNFak54TWpOdlVtZHB4Mkx6eEdhdlFYWnU1Q1pvbFdZdEYyYWg1U2F0NFdabGwyY2hWamQwOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-id="BFM.FR" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="* BDIX MX1",BFM
-PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNNZlZHYnBaMmJ5QjNMeEFETXdFak53VUROMmNET3ZFVExzRm1jMDVXWmoxU2RsOVNOalJUWmxCek15TURPbU5XWmhWR08zSXpZMEVXTWpOVE5pZEROMk1qWW05Q2RsNW1Ma2hXYWgxV1lyRm1MaDFTWjJsR2IyOTJZaTl5TDZNSGMwUkhh
 
 #EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="* BDIX MX1",Das Erste
 PT1BTzFOVGJ1SVhaME5YWXQ5Q2R1bDJMbFIzY3lWMmNoUjJMbFJtTGxSM2N5VjJjaFJtTHVSMll0OXlMNk1IYzBSSGE=
@@ -1105,41 +959,11 @@ PT1BTzFOVGJ1SVhaME5YWXQ5Q2R1bDJMbFIzY3lWMmNoUjJMbFJtTGxSM2N5VjJjaFJtTHVSMll0OXlM
 #EXTINF:-1 tvg-id="T24.DE" tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" group-title="* BDIX MX1",Tagesschau 24
 PT1BTzFOVGJ1QVhMMkYyWDJjek56OEZlbFJtYnA5U016SVRPeEVEUXg4VmRoaDJZek5YWm5GR2R2azJMMFZtYnVRR2FwRldiaHRXWXVnR2J0VVhZb04yY3pWMlpoUjNMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-id="RTL.DE" tvg-logo="http://static.epg.best/de/RTL.de.png" group-title="* BDIX MX1",RTL
-NFUzTXQ1U01mVlRNeDhTZHZRWGR2OVNNMGdqTTFvek16RWpMeWtqTDFNVE11VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-id="VOX.DE" tvg-logo="http://static.epg.best/de/Vox.de.png" group-title="* BDIX MX1",Vox
-NFUzTXQ1U01mTmpNeDhTZHZRWGR2OVNNMGdqTTFvek16RWpMeWtqTDFNVE11VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-id="RA1.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="* BDIX MX1",Rai 1
-NFUzTXQ1U01mQkROMDhTZHZRWGR2OVNNMGdqTTFvek16RWpMeWtqTDFNVE11VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-id="RA2.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="* BDIX MX1",Rai 2
-NFUzTXQ1U01mSlROMDhTZHZRWGR2OVNNMGdqTTFvek16RWpMeWtqTDFNVE11VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-id="RE4.IT" tvg-logo="https://static.epg.best/it/ReteQuattro.it.png" group-title="* BDIX MX1",Rete 4
-NFUzTXQ1Q2VsUm1icDlTSzBJRktzVm1idUZHYWo5U1oybEdidk0zYjI5bGNzTjJYd2cyWHp4R2F2UW5ibFJuYnZOMEwwVm1idVFXWjZsV1l0RjJhaDVDZHAxQ2RsTlhZcFJXWnQxeWJwUldZeTF5TWxaWGFzOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="* BDIX MX1",Canale 5
-NFUzTXQ1U01mVmpNMDhTZHZRWGR2OVNNMGdqTTFvek16RWpMeWtqTDFNVE11VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-id="IT1.IT" tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="* BDIX MX1",Italia 1
-PWdUZHowbUx4ODFNMThTZHZRWGR2OVNNMGdqTTFvek16RWpMeWtqTDFNVE11VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-id="FRB.IT" tvg-logo="https://static.epg.best/it/Frisbee.it.png" group-title="* BDIX MX1",Frisbee
-PWdUZHowbUx5VkdkekZXYnZnVE81QVRNNEFFTmZ4R1pvTm5ZejlTYXZRWFp1NUNab2xXWXRGMmFoNUNhczFTTjF4R1pvTm5Zejl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-id="1RU.RU"  tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="* BDIX MX1",??????
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MFdZbEpIZHo1Q2FubEdhdVV6TTNFekxsWlhhczlTYnZObUx1OVdic2xtWnVZM1p0ZzJZdElUT3hFVExsZEdabDl5TDZNSGMwUkhh
-
 #EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="* BDIX MX1",Russia 1
 PT1BTzFOVGJ1UXpYME5YYXNsWFlzQjNMa2gyWGhsMmN6Vm5jdk1IYm85Q2RsNW1MNGxtYmxkbWJ1NEdaajVTTTRnak55TVhMellETTRVRE41WVROekUyTHZvRGMwUkhh
 
 #EXTINF:-1 tvg-id="R24.RU" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="* BDIX MX1",Russia 24
 PT1BTzFOVGJ1SXpYME5YYXNsWFlzQjNMMEl6WGhsMmN6Vm5jdk1IYm85Q2RsNW1MNGxtYmxkbWJ1NEdaajVTTTRnak55TVhMellETTRVRE41WVROekUyTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="* BDIX MX1",BVN
-NFUzTXQ1eWJ1OVdidkVUWXhZWEx6dDJZaEpIZHZJVGVoSm1OejhsWXJCRE15RXpYMlJuYjJKMlh2dFdhdWwyWnY0V2FuOWlNNUZtWTJNekx0OTJZdVlIZDZwM2JpOXlMNk1IYzBSSGE=
 
 #EXTINF:-1 tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="* BDIX MX1",ANT 1
 PWdUZHowbUx3MWlkaDlGTXdVVE1maFhaazVXYXZnek14VVRNM0FVTWZWbWRweDJMcDlDZGw1bUxraFdhaDFXWXJGbUxveFdMd05YWjJsR2JoNW1ibFJuYmg5eUw2TUhjMFJIYQ==
@@ -1147,23 +971,8 @@ PWdUZHowbUx3MWlkaDlGTXdVVE1maFhaazVXYXZnek14VVRNM0FVTWZWbWRweDJMcDlDZGw1bUxraFdh
 #EXTINF:-1 tvg-id="HR1.HR" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" group-title="* BDIX MX1",HRT 1
 PWdUZHowbUwwQXpMNU1UTTJJak14SWpNejhDTnlJekw0Z0RPNGdETzRnekxXUkZUUTlDTjQ0Q00zNFNPeTRTTjVFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="* BDIX MX1",Joj
-PT1BTzFOVGJ1QWpNMzBpYXZwMkx6eEdhdnMyY3VvMmJxNVNNdTUyTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="24H.ES" tvg-logo="https://static.epg.best/es/24Horas.es.png" group-title="* BDIX MX1",24 Horas
-PT1BTzFOVGJ1SVdMMkYyWHdBVE54OEZlbFJtYnA5Q016QXpNNFVEUXg4VloybEdieVpIWnp4R2F2azJMMFZtYnVRR2FwRldiaHRXWXVnR2J0Z0RiblJXYmhWbWRweDJjc2gyTHZvRGMwUkhh
-
 #EXTINF:-1 tvg-ID="TEL.AR" tvg-logo="https://telefe-static2.akamaized.net/media/143174/logo-rosario-368x80.png" group-title="* BDIX MX1",Telefe Rosario
 NFUzTXQ1aWNsUjNjaDEyTHlBek15QXpNQU5IYm85RmR6bEdibFJYYW9kM0xwOUNkbDVtTGtoV2FoMVdZckZtTG94V0x6eEdhbFJYYW9kWFptVkdibFIzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="CV9.DO" tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="* BDIX MX1",Color Visión
-NFUzTXQ1U09XOTBRdjRXWnI5R1Z2Z1RWejAwTHlWR2R6RldidllGVlFsMEx5Vm1kcFIyYjRWMkx0OTJZdVFuYmxSbmJ2Tm1jbE5YZGlWSGEwbDJadWNYWXk5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="* BDIX MX1",LA 1
-PT1BTzFOVGJ1SVdMMkYyWHdBRE95OEZlbFJtYnA5aU0wQXpNNFVEUXg4VloybEdieVpIWnp4R2F2azJMMFZtYnVRR2FwRldiaHRXWXVnR2J0Y0RiblJXYmhWbWRweDJjc2gyTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-id="LA2.ES" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="* BDIX MX1",LA 2
-PT1BTzFOVGJ1SVhaME5YWXQ5U016VURNMkFVTWZWbWRweG1jMlIyY3NoMkxwOUNkbDVtTGtoV2FoMVdZckZtTG94V0x3dzJaazFXWWxaWGFzTkhibzl5TDZNSGMwUkhh
 
 #EXTINF:-1 tvg-id="RT3.PT" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="* BDIX MX1",RTP 3
 NFUzTXQ1Q2R6bEdiNUZHYnc5Q2JwMTJjdUluZGs1R2MwSjNMU1pGUnp4R2EyUlhaMmxHYnZRSGN1QUhkeTVTWjJsR2J0Y21icDFXWWxKSGR6OXlMNk1IYzBSSGE=
@@ -1173,424 +982,6 @@ PWdUZHowbUwwQkhiejlGTXdBRE01SVRNaTlGZHpsR2JyNVdkb04yTHNsV2J6NVNhd1JuYzZ3V2F0TjNM
 
 #EXTINF:-1 tvg-id="RPC.PY" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="* BDIX MX1",Trece
 PWdUZHowbUxsTldaeVIzTGxaWGFzOWlNMUlqTDRFVE11Z3pNeDRDTjNFekx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="* BDIX MX1",ATN BANGLA
-elJuTHdFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="* BDIX MX1",CHANNEL I HD
-PU1IZHVRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="* BDIX MX1",EKUSHEY TV
-elJuTDFFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="* BDIX MX1",NTV
-PU1IZHVrekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="* BDIX MX1",RTV HD
-elJuTHhFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="* BDIX MX1",BANGLA VISION
-elJuTDNFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="* BDIX MX1",MY TV
-elJuTDRFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="* BDIX MX1",MAASRANGA TV HD
-PU1IZHVFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="* BDIX MX1",CHANNEL 9 HD
-PU1IZHVjekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="* BDIX MX1",GAZI TV HD
-PU1IZHVZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="* BDIX MX1",SA TV HD
-PU1IZHVnekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="* BDIX MX1",DEEPTO TV HD
-PU1IZHVVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="* BDIX MX1",NAGORIK TV HD
-PU1IZHVNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="* BDIX MX1",INDEPENDENT TV
-elJuTHlFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="* BDIX MX1",SOMOY TV
-elJuTDBFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="* BDIX MX1",CHANNEL 24
-elJuTDJFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="* BDIX MX1",EKATTOR TV HD
-PU1IZHVJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="* BDIX MX1",JAMUNA TV
-elJuTHpFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="* BDIX MX1",GAAN BANGLA
-elJuTDVZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="* BDIX MX1",Durunto TV
-elJuTHpZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Star Jalsha HD
-elJuTHlJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="* BDIX MX1",Zee Bangla HD
-elJuTHhJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="* BDIX MX1",Sony Aath
-elJuTHdJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Akash Bangla
-elJuTDRrekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9ifctck4cr7wnwp/ddbangla.jpg" group-title="* BDIX MX1",DD Bangla
-elJuTDNVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ySyvc3o.jpg" group-title="* BDIX MX1",Kolkata TV
-elJuTDVVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="* BDIX MX1",Jalsha Movies
-elJuTDFJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="* BDIX MX1",Sangeet Bangla
-elJuTHdjekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="* BDIX MX1",Star Plus
-elJuTDNJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg"group-title="* BDIX MX1",Sony TV
-elJuTDJJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="* BDIX MX1",Zee TV
-elJuTDRJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="* BDIX MX1",Colors
-elJuTHdNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="* BDIX MX1",AXN HD
-elJuTHlRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="* BDIX MX1",Star Gold
-elJuTHlNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="* BDIX MX1",Sony Max HD
-elJuTHhNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Zee Cinema
-elJuTDVJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",TVP
-elJuTDFNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",BFlix Movies
-elJuTDFNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="* BDIX MX1",Star Movies SD
-elJuTHpRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="* BDIX MX1",HBO
-elJuTDBRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QPcVm2h.png" group-title="* BDIX MX1",MN+ HD
-elJuTDRNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="* BDIX MX1",Sony Pix SD
-elJuTDVNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="* BDIX MX1",& Flix
-elJuTHdRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="* BDIX MX1",Sony Ten 1
-elJuTDNRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="* BDIX MX1",Sony Ten 2
-elJuTHdVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="* BDIX MX1",Sony SIX HD
-elJuTDVRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="* BDIX MX1",Star Sports 1 HD
-elJuTHpVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="* BDIX MX1",Star Sports Select 1 HD
-elJuTHhVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="* BDIX MX1",Star Sports Select 2 HD
-elJuTHlVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",D Sports
-elJuTDBVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="* BDIX MX1",Discovery HD
-elJuTHhZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="* BDIX MX1",TLC HD
-elJuTDFRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="* BDIX MX1",BBC Lifestyle
-elJuTDJRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="* BDIX MX1",BBC EARTH
-elJuTHlZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU" group-title="* BDIX MX1",History TV 18 HD
-elJuTDJnekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Travel XP
-elJuTHpJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="* BDIX MX1",Hum Masala
-elJuTHpNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",E24 Music
-elJuTHpnekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Zing
-elJuTHhnekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="* BDIX MX1",Music India
-elJuTDBnekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Zee ETC
-elJuTHpjekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",MTV
-elJuTDFjekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Masti Music
-elJuTDRjekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="* BDIX MX1",BBC World
-elJuTDJVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="* BDIX MX1",CARTOON NETWORK HD+
-elJuTDBZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="* BDIX MX1",Disney XD
-elJuTDFZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="* BDIX MX1",BBC Cbeebies
-elJuTDNZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="* BDIX MX1",NICK
-elJuTDRZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="* BDIX MX1",Sonic
-elJuTDNZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Hum Sitary
-elJuTDBNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="* BDIX MX1",ATN BANGLA
-elJuTHdFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="* BDIX MX1",CHANNEL I HD
-PU1IZHVRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="* BDIX MX1",EKUSHEY TV
-elJuTDFFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="* BDIX MX1",NTV
-PU1IZHVrekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="* BDIX MX1",RTV HD
-elJuTHhFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="* BDIX MX1",BANGLA VISION
-elJuTDNFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="* BDIX MX1",MY TV
-elJuTDRFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="* BDIX MX1",MAASRANGA TV HD
-PU1IZHVFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="* BDIX MX1",CHANNEL 9 HD
-PU1IZHVjekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="* BDIX MX1",GAZI TV HD
-PU1IZHVZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="* BDIX MX1",SA TV HD
-PU1IZHVnekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="* BDIX MX1",DEEPTO TV HD
-PU1IZHVVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="* BDIX MX1",NAGORIK TV HD
-PU1IZHVNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="* BDIX MX1",INDEPENDENT TV
-elJuTHlFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="* BDIX MX1",SOMOY TV
-elJuTDBFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="* BDIX MX1",CHANNEL 24
-elJuTDJFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="* BDIX MX1",EKATTOR TV HD
-PU1IZHVJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="* BDIX MX1",JAMUNA TV
-elJuTHpFekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="* BDIX MX1",GAAN BANGLA
-elJuTDVZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Star Jalsha HD
-elJuTHlJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="* BDIX MX1",Zee Bangla HD
-elJuTHhJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="* BDIX MX1",Sony Aath
-elJuTHdJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Akash Bangla
-elJuTDRrekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9ifctck4cr7wnwp/ddbangla.jpg" group-title="* BDIX MX1",DD Bangla
-elJuTDNVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ySyvc3o.jpg" group-title="* BDIX MX1",Kolkata TV
-elJuTDVVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="* BDIX MX1",Jalsha Movies
-elJuTDFJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="* BDIX MX1",Sangeet Bangla
-elJuTHdjekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="* BDIX MX1",Star Plus
-elJuTDNJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg"group-title="* BDIX MX1",Sony TV
-elJuTDJJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="* BDIX MX1",Zee TV
-elJuTDRJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="* BDIX MX1",Colors
-elJuTHdNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="* BDIX MX1",AXN HD
-elJuTHlRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="* BDIX MX1",Star Gold
-elJuTHlNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="* BDIX MX1",Sony Max HD
-elJuTHhNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Zee Cinema
-elJuTDVJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",TVP
-elJuTDFNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",BFlix Movies
-elJuTDFNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="* BDIX MX1",Star Movies SD
-elJuTHpRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="* BDIX MX1",HBO
-elJuTDBRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QPcVm2h.png" group-title="* BDIX MX1",MN+ HD
-elJuTDRNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="* BDIX MX1",Sony Pix SD
-elJuTDVNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="* BDIX MX1",& Flix
-elJuTHdRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="* BDIX MX1",Sony Ten 1
-elJuTDNRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="* BDIX MX1",Sony Ten 2
-elJuTHdVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="* BDIX MX1",Sony SIX HD
-elJuTDVRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="* BDIX MX1",Star Sports 1 HD
-elJuTHpVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="* BDIX MX1",Star Sports Select 1 HD
-elJuTHhVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="* BDIX MX1",Star Sports Select 2 HD
-elJuTHlVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",D Sports
-elJuTDBVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="* BDIX MX1",Discovery HD
-elJuTHhZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="* BDIX MX1",TLC HD
-elJuTDFRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="* BDIX MX1",BBC Lifestyle
-elJuTDJRekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="* BDIX MX1",BBC EARTH
-elJuTHlZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU" group-title="* BDIX MX1",History TV 18 HD
-elJuTDJnekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Travel XP
-elJuTHpJekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="* BDIX MX1",Hum Masala
-elJuTHpNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",E24 Music
-elJuTHpnekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Zing
-elJuTHhnekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="* BDIX MX1",Music India
-elJuTDBnekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Zee ETC
-elJuTHpjekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",MTV
-elJuTDFjekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Masti Music
-elJuTDRjekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="* BDIX MX1",BBC World
-elJuTDJVekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="* BDIX MX1",CARTOON NETWORK HD+
-elJuTDBZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="* BDIX MX1",Disney XD
-elJuTDFZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="* BDIX MX1",BBC Cbeebies
-elJuTDNZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="* BDIX MX1",NICK
-elJuTDRZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="* BDIX MX1",Sonic
-elJuTDNZekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
-
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="* BDIX MX1",Hum Sitary
-elJuTDBNekxPUkVSSFIxUXY0RVJFZEVWRDlTWjJsR2J2VXpNNUVqT2xaWGFzNWlkMGwyYXVZSGR3bDJMdm9EYzBSSGE=
 
 
 #added19072020
