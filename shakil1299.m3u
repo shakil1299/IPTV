@@ -411,6 +411,18 @@ PT1BTzFOVGJ1QVhMMkYyWHdVVE1maFhaazVXYXZBek4ySVRPMkFVTWZWbWRweDJZazlTYXZRWFp1NUNa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqFWpXX.png" group-title="* BDIX MX1",Khyber TV
 NFUzTXQ1Q2N0WVhZZkJUTng4RmVsUm1icDlpTXlFak54QVVNZlZtZHB4MllrOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMXlNNFVtZHB4V2F1VjNZazl5TDZNSGMwUkhh
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="* MIXED01", Subrang TV (US) (Opt-1)
+PT1BTzFOVGJ1Y21iaEpuWTFOM0x6eEdhdjAyYmo1eWNsTldhMkpYWnpWbWJweG1idlZtZHB4bUx4WWpia04yTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="* MIXED01", Tag TV (Opt-2)
+NFUzTXQ1aWQwZFdZMDl5Y3NoMkx0OTJZdU1YWmpsbWR5VjJjbDVXYXM1MmJsWlhhczVDTXo0R1pqOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tl7iOAc.png" group-title="* MIXED01", Toronto 360 TV (CA)
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2WUhkdkFqTno4R2R1OW1jdlIzTHQ5Mll1MFdZbEpIZHpkRE55VW1kcHhtTHo4R2R1OW1jdlIzTHZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w82VmmO.png" group-title="* MIXED01", Urdu TV Toronto (CA)
+NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwOVNka0pYZHYwMmJqNVNiaFZtYzBOM04wSVRaMmxHYnVRamJrTjJMdm9EYzBSSGE=
+
 //IN Discovery//
 
 #EXTINF:-1 tvg-name="Fox Life HD" tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="* All 20032021",Fox Life HD
@@ -984,143 +996,9 @@ PWdUZHowbUwwQkhiejlGTXdBRE01SVRNaTlGZHpsR2JyNVdkb04yTHNsV2J6NVNhd1JuYzZ3V2F0TjNM
 PWdUZHowbUxsTldaeVIzTGxaWGFzOWlNMUlqTDRFVE11Z3pNeDRDTjNFekx2b0RjMFJIYQ==
 
 
-#added19072020
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ekd94G.png" group-title="* MIXED01",CORONA LIVE
-PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTDM5R2J0VW1kcHhXWXJGR2FrOVNTVUJsYm9CVmFoRlROWEZHZFNkVll6WkVadDlFVlFOalRXVjJWR1ZFVkRwVVJhMWtWSE5tZG1sWFQ2bFVNT3BYWndVRk1QUmxXSmgzVlpKVE9HSm1lR1ZXWXZWRVpuRkVWT1pUVTZkbVUyVUZSSmRFTUZSVVQ1aFRlT2hIT3AxVU9WVmtZd0pGT1lsblZ0UldlV3AxWXZRek01RWpPeUFqTXVnRE54NHlNMDR5TXdFekx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="* MIXED01",ASIAN TV HD
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVDWnRzMmJ0VUdidzFXWXoxQ2R6VkdkdDRXWXBOWFl2a0VWUTVHYVFsV1l4VXpWaFJuVVhGMmNHUldiUFJGVXo0a1ZsZGxSRlIxUUtWa1dOWjFSalpuWjUxa2VKRmpUNlZHTVZCelRVcFZTNGRWV3lralJpcG5SbEYyYkZSMlpCUmxUMkVsZW5KbE5WUlVTSDlVUkUxVWU0a25UNGhUYU5sVFZGSkdjU2REVzUxVWJ0WmpWMU0yTDBNVE94b1Ridk5tTGtKMmJuRm1hdVlIY3dGbUxsQlhibFIzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="* MIXED01",RTV Music
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejV5WXBOWGR0WkhkeTlpYnBkbWN2MVNaMmxHYnYwV1lsSkhkejV5WXBOWGR0WkhkeTlTU1VCbGJvQlZhaEZUTlhGR2RTZFZZelpFWnQ5RVZRTmpUV1YyVkdWRVZEcFVSYTFrVkhObWRtbFhUNmxVTU9wWFp3VUZNUFJsV0poM1ZaSlRPR0ptZUdWV1l2VkVabkZFVk9aVFU2ZG1VMlVGUkpkRU1GUlVUNWhUZU9oSE9wMVVPVlZrWXdKMU1ZbG5WdFJXZTJZVk5qOUNOemtUTTZJRE51QWpNeDRpTndFakx6SXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OS4nrN7.jpg" group-title="* MIXED01",NTV [UK]
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVTTXhJak16TURNd3NXZDJSbmJ2NFdhbkozYnRVbWRweDJMdEZXWnlSM2N1RVRNeUl6TXpBRE1yVm5kMDUyTEpSRlV1aEdVcEZXTTFjVlkwSjFWaE5uUmsxMlRVQjFNT1pWWlhaVVJVTmtTRnBWVFdkMFkyWldlTnBYU3g0a2VsQlRWdzhFVmFsRWVYbGxNNVlrWTZaVVpoOVdSa2RXUVU1a05ScDNaU1pUVkVsMFJ3VUVSTmxITzU1RWU0a1dUNVVWUmlCblUwZ1ZlVzFHWjVabE1qOUNOemtUTTZJRE51QWpNeDRpTndFakx6SXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11.jpg?x91288" group-title="* MIXED01",ATN BANGLA [UK]
-NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdVltWnYxeWExRkdibjVXWWk1R2RoOWlicGRtY3YxU1oybEdidjBXWWxKSGR6NWlabTlXTHJWWFlzZG1iaEptYjBGMkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMTJUVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSd1VFUk5sSE81NUVlNGtXVDVVVlJpQm5VMGdWZVcxR1o1WmxNajlDTnprVE02SUROdUFqTXg0aU53RWpMekl6THZvRGMwUkhh
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ySyvc3o.jpg" group-title="* MIXED01",Kolkata TV
-PWdUZHowbUwwQTNMbzFpVlVGR2RodEdidnQwTGxaWGFzOWlicDVpYnZsR2QxeDJielpIZHBSSGIxMW1McDlHYWpsMmJvMVdZbEpIZHo5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ETVpGyf.png" group-title="* MIXED01",The Q
-PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOUNid0JqTTM4VmJoVm1jME5uTDE5V1dSOUNOekFETjRjekxsWlhhczl5Y3NoMkwwVm1idVFHYXBGV2JodFdZdWtXTHhjV2JoOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IIKYrLZ.jpg" group-title="* MIXED01",DD Vyas
-PWdUZHowbUw0VkdadWwyTHdCak56MHljaGxuZHZVbWRweDJMdWxtTGpsbWJ1RVdha1ZXYnVNSGJvbFhZc0IzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WZmxiFX.jpg?1" group-title="* MIXED01",Capital TV
-NFUzTXQ1eWJ1OVdidkVUWXhZWEx6dDJZaEpIZHZ3V1kwbEdjaE4yTGxaWGFzbFhidklETnVJVE11QURPeDRTTjRFekx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kR1tW0o.jpg" group-title="* MIXED01",Geo Kahini
-PT1BTzFOVGJ1OG1idjEyTHhFV00yMXljck5XWXlSM0xFaDBYcDVXWW9GMlNmOVdaSDlDTjNFakx3VWpNdVFETng0aU54SXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dOIqvce.jpg" group-title="* MIXED01",BOL Entertainment
-PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIZHVWR2J2SjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iqbsKgG.png" group-title="* MIXED01",BOL News
-PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIYnZKMkxyQm5McTUyYnZkbUxsWlhhc2xYWXNCM0x2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5iaUgYc.jpg" group-title="* MIXED01",LTN Family
-PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRuYjB4MkxyQm5McTUyYnZkbUxsWlhhc2xYWXNCM0x2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XX1UPVL.jpg" group-title="* MIXED01",Public News
-NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM04zZGw1MllweG1ZMUIzTHJCbkxxNTJidmRtTGxaWGFzbFhZc0IzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HKCvQAC.jpg" group-title="* MIXED01",Filmax
-PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIZWgxR2JwWjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DXn57cB.jpg" group-title="* MIXED01",Samaa TV
-PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYaVYyZGhGV2JoTjNMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vhtughe.jpg" group-title="* MIXED01",Urdu 1
-PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYaVYyZHhVSFp5VjNMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="* MIXED01",Film World
-PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIWnNKM2IzMUdicFoyTHJCbkxxNTJidmRtTGxaWGFzbFhZc0IzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/arBu6Kj.jpg" group-title="* MIXED01",Geo News
-NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM04zZGw1MmJsZDJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CkJpbom.jpg" group-title="* MIXED01",Geo Entertainment
-PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIZHVWMmJsZDJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/shVEz5N.jpg" group-title="* MIXED01",Aaj News
-NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM04zZGw1bWFoRjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OA762pM.png" group-title="* MIXED01",Aaj Entertainment
-PWdUZHowbUw0VkdadWwyTHdCak56OGxZbGRIZHVWbWFoRjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HXLqT5G.jpg" group-title="* MIXED01",Aplus
-PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYaVYyZHpWSGJ3RjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CePUeX6.jpg" group-title="* MIXED01",Dawn News
-PT1BTzFOVGJ1Z1haazVXYXZBSE00UXpYaVYyZHpkWFp1NTJkaFIyTHJCbkxxNTJidmRtTGxaWGFzbFhZc0IzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YjypzhE.jpg" group-title="* MIXED01",News One
-PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIZHVWbWFoRjJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ig0hIeI.jpg" group-title="* MIXED01",Madni TV
-NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM1pIZHA1R1poMTJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XSMb4er.jpg" group-title="* MIXED01",Makkah Live
-PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRIYWh0MmFoMTJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4ZMTA9d.jpg" group-title="* MIXED01",Neo News
-NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM04zZGw1MmJsNTJMckJuTHE1MmJ2ZG1MbFpYYXNsWFlzQjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a5qvq5J.jpg" group-title="* MIXED01",Express Entertainment
-NFUzTXQ1Q2VsUm1icDlDY3dnRE5mSldaM1JuYmxOM2NsSkhjNFYyTHJCbkxxNTJidmRtTGxaWGFzbFhZc0IzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eL2pmZL.jpg" group-title="* MIXED01",Dunya
-PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGQzYzNWbWJobG5iMVIyTHJCbkxxNTJidmRtTGxaWGFzbFhZc0IzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="* MIXED01",8X Music
-PWdUZHowbUw0VkdadWwyTHdCRE8wOGxZbGRYYjRoekxyQm5McTUyYnZkbUxsWlhhc2xYWXNCM0x2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9ts2fLPAt7U/hqdefault.jpg" group-title="* MIXED01",HUMRAZ TV
-PT1BTzFOVGJ1b1hZaEpYYjFoMkx6eEdhdjAyYmo1eWNsTldhMkpYWnpWbWJweG1idlZtZHB4bUx4WWpia04yTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uh8HAPY.jpg" group-title="* MIXED01",AVT KHYBER
-PTQyYjlVMmNoSldaeVpDTXgwRFp6OURPMU5UYnVBWEwyRjJYd1VUTWZoWFprNVdhdkF6TjJJVE8yQVVNZlZtZHB4MllrOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMUNPelVtZHB4V2F1VjNZazl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mqFWpXX.png" group-title="* MIXED01",Khyber TV
-PT1nYnYxVFp6Rm1ZbEpuSndFVFBrTjNQNFUzTXQ1Q2N0WVhZZkJUTng4RmVsUm1icDlpTXlFak54QVVNZlZtZHB4MllrOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMXlNNFVtZHB4V2F1VjNZazl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbDBky1.png" group-title="* MIXED01", Eawaz TV (CA)
-NFUzTXQ1eWNyNVdkb04yTDZGMmRoOW1laEYyY3ZvWFkzRjJiNkZXWXo5Q2RsNW1MbDUyYnRGV1p5UjNjazVpYmtabkx5RWpjbDFXWWxKSGR6OXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="* MIXED01", Eye 95 America (US)
-PT1BTzFOVGJ1WUhkMWtUWjVWMkx6eEdhdjAyYmo1eWNsTldhMkpYWnpWbWJweG1idlZtZHB4bUx3SWpia04yTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="* MIXED01", Kay 2
-PT1BTzFOVGJ1SVhaME5YWXQ5U093RWpNMllEUXg4VloybEdialIyTHA5Q2RsNW1Ma2hXYWgxV1lyRm1Mb3hXTDJNVFoybEdicDVXZGpSMkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NQ2aC6.png" group-title="* MIXED01", Khyber Middle East
-PT1BTzFOVGJ1SVhaME5YWXQ5aU15RWpOeEFVTWZWbWRweDJZazlTYXZRWFp1NUNab2xXWXRGMmFoNUNhczF5TTRVbWRweFdhdVYzWWs5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSLi73Y.png" group-title="* MIXED01", Prime Canada TV (CA)
-NFUzTXQ1eWNyNVdkb04yTHgwV1lsSkhkejlTWWtGbWJoTldadGxtY3c5eU4wSXpMaFJXWXVGMllsMVdheUIzTHQ5Mll1MFdZbEpIZHpkRE55VW1kcHhtTDNJamJrTjJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="* MIXED01", Subrang TV (US) (Opt-1)
-PT1BTzFOVGJ1Y21iaEpuWTFOM0x6eEdhdjAyYmo1eWNsTldhMkpYWnpWbWJweG1idlZtZHB4bUx4WWpia04yTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="* MIXED01", Subrang TV (US) (Opt-2)
-PWdUZHowbUxuNVdZeUpXZHo5eWNzaDJMdDkyWXVNWFpqbG1keVYyY2w1V2FzNTJibFpYYXM1Q015NEdaajl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="* MIXED01", Tag TV (Opt-1)
-NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwOXlaaFIzTHQ5Mll1MFdZbEpIZHpkRE55VW1kcHhtTHhFamJrTjJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="* MIXED01", Tag TV (Opt-2)
-NFUzTXQ1aWQwZFdZMDl5Y3NoMkx0OTJZdU1YWmpsbWR5VjJjbDVXYXM1MmJsWlhhczVDTXo0R1pqOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tl7iOAc.png" group-title="* MIXED01", Toronto 360 TV (CA)
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2WUhkdkFqTno4R2R1OW1jdlIzTHQ5Mll1MFdZbEpIZHpkRE55VW1kcHhtTHo4R2R1OW1jdlIzTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w82VmmO.png" group-title="* MIXED01", Urdu TV Toronto (CA)
-NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwOVNka0pYZHYwMmJqNVNiaFZtYzBOM04wSVRaMmxHYnVRamJrTjJMdm9EYzBSSGE=
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="* MIXED01",MR BEAN SHOW
@@ -1132,15 +1010,6 @@ PT1BTzFOVGJ1SURlbFJtYnA5eU56ZzJMbzl5TTJZak14VjNMa2h6TTBNR00xSVdabE5UWXRRbVk0Z1RM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="* MIXED01",Hits
 PT1BTzFOVGJ1Z1haazVXYXZjek1vOUNhdk1qTjJJVGMxOVNNMTR5TTQ0aU55RWpMMVF6THZvRGMwUkhh
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="* MIXED01",itv2
-MUFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="* MIXED01",itv3
-MkFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="* MIXED01",itv4
-M0FETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogzQuzh.jpg" group-title="* MIXED01",Cine Series
 PWdUZHowbUx2NTJidDlTTWhGamR0TTNhakZtYzA5aU01Rm1ZMk16WGl0R013Z3pYelZXYXlWMmN0VW1icE5XTDQ5bVkyUjNYdnRXYXVsMlp2NFdhbjlpTTVGbVkyTXpMdDkyWXVZSGQ2cDNiaTl5TDZNSGMwUkhh
 
@@ -1150,46 +1019,17 @@ PWdUZHowbUw0VkdadWwyTHdCRE8wOGxicDVTWnU5bVd6VldheVYyVXVBVE13Z3pMenhHYXZRWFp1NVNh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbGgNde.png" group-title="* MIXED01",Warner TV
 NFUzTXQ1eVp1bFdldUZXYWtGbWJoVkhhZnBsV3ZjbWJwbG5iaGxHWmg1V1kxaDJYYXAxTHZBRE93Z2pPeVFqTDBVVE11QVROeTRDTndFekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jw3soCz.png" group-title="* MIXED01",Blue Ant Entertainment
-PT1BTzFOVGJ1RURNdllUTW85Q2F2VUROMGtqY2s5U00xNHlNNDRpTnlFakwxUXpMdm9EYzBSSGE=
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g1pUWdH.jpg" group-title="* MIXED01",Blue Ant Extreme
 PT1BTzFOVGJ1RURNdlVUTW85Q2F2VUROMGtqY2s5U00xNHlNNDRpTnlFakwxUXpMdm9EYzBSSGE=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xr6RwMC.png" group-title="* MIXED01",KIX HD
 NFUzTXQ1aU13OHlOd2cyTG85eU0yWWpNeFYzTDNZak16WURaeWNUWXlnall0a0ROeUVXTDRVV014MENaelUyTnRNMk56SVRPMklUWnY0MmJwTjNjbE4zTDFNakwxVVRNdUFUTXk0Q014SXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5j5FjR3.jpg" group-title="* MIXED01",Retro TV
-PWdUZHowbUxuNVdac04zWHdBRE00SVRPeEkyWDNNak13SVRPemtUTXhjM1gwTlhhc3RtYjFoMll2d1dhdE5uTHZKSGRsSjNOMElqT3NsV2J6OVNaMmxHYnZVek01RWpPdDkyWXVZSGR2SkhkbEozTjBJekx2b0RjMFJIYQ==
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lhGwCpE.jpg" group-title="* MIXED01",Shemaroo Kids
-PT1BTzFOVGJ1WTJZZkJqTnpnSE0wWXpYME5YYXN0bWIxaDJZdndXWnU1V1lvTldMeUZXWnVsR2J0TUhacHQyTDBWM2I1Rkdid0pYWWw1V2FzOVNidk5tTGwxMmJ2SlhZdFZHYXo1Q2JsNW1iaGgyWWxaWGFzOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6sbsbHc.png" group-title="* MIXED01",Tom & Jerry Show
-PVlIYm01aWQwTlhkNFZIYm05amRzWm1Mb2RXYW85bE54UW1aMkVHWmpKRE9tRlROeVFqTWtSV1p5TVdPbGhUWmxOVE93Z3pNMUlITjFVek55UWpNeFVUTzVVVE0xTjNMbFpYYXM5aWQwNXlidGxtYnVZSGJtNXljMzl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="* MIXED01",BBC Cbeebies
-ekFETXZBSGQwaDJMNGdETzRvak15NGlOMUVqTHlVakx4VXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="* MIXED01",Disney channel
-PWdUZHowbUxaVmtUVGxFUmZoMFF2RURNdkVtZGhKV1k2OWxkMGwyTHpsR2F2VW5jdUVUZXQ1aWQwMVNleVJYYXRSMkx2b0RjMFJIYQ==
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="* MIXED01",ANIMAX
-PWdUZHowbUx4QXpMMFFUTW85Q2F2VUROMGtqY2s5U00xNHlNNDRpTnlFakwxUXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="* MIXED01",AniPlus
-NFUzTXQ1U013OGlNd2cyTG85U04wUVRPeVIyTDFNakwxVVRNdUFUTXk0Q014SXpMdm9EYzBSSGE=
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M3GFtld.png" group-title="* MIXED01",Hungama
 PVlUT3hBVE80Y1ROekV6TGtsR2JsNW1iaGgyWXYwV1lsSkhkejlTTTRrVE82WWpMM0VUTXVNak54NGlNd0l6THZvRGMwUkhh
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="* MIXED01",POGO
 PT1nTnhZRE4yVWpNM2d6TGtsR2JsNW1iaGgyWXYwV1lsSkhkejlTTTRrVE82WWpMM0VUTXVNak54NGlNd0l6THZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="* MIXED01",SPACETOON KIDS
-PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejVDYnAxMmNsWlhhc3BEYnAxMmN2d1dadTVXWW9OR2R6OVNaMmxHYnZVek01RWpPdDkyWXU0MmJ2UlhaakZHY3o1U2JoVm1jME4zTHZvRGMwUkhh
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c5V2LiM.png" group-title="* MIXED01",ABC Kids
 PT1BTzFOVGJ1SWpNeUFUTXlJRE13RURNeDRpZDA5U1p1Rm1ZemxtY0M5U2RoOWlldTVDYXExbUxwOXlMNk1IYzBSSGE=
@@ -1199,9 +1039,6 @@ PWdUZHowbUx5OEZadkpIY3RNellpMTJMMFZtYnVRV2FvRkdhejVDWnZKSGN0TXpZaTFXTHp4R2F6OXlM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yzBbZgT.png" group-title="* MIXED01",Okto
 PWdUZHowbUx5QWpjbFIzY2gxMkwyUjNZdlIzYXY5eWNzaDJMMFZtYnVRbmJ2Sm5aa1YzYnNObUw1Y3piMlFuZXVSbmUwWkdaazl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVq6IyP.png" group-title="* MIXED01",3ABN KIDS TV
-PT1BTzFOVGJ1SVhaME5YWXQ5U1p5VjNZbE4zTDRFek15VWpOdlVtZHB4Mkx6eEdhdlFYWnU1Q1pvbFdZdEYyYWg1U2F0TUhib1pIZHdsMmJ0OXlMNk1IYzBSSGE=
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Karusel.ru.png" group-title="* MIXED01",karusel TV
 PT1BTzFOVGJ1UW5iaGxtY2haM0xNVjBVVkpWUUw5Vk13STFYSU4wTHp4R2F2QURPNlFYWnU1Q2VwNVdabjVtTHVSMll1SUdidFVtZHB4R2RvMWlidTF5WnNaWEwwSjNMdm9EYzBSSGE=
@@ -1237,18 +1074,6 @@ PWdUZHowbUxqOVNhbzlDTXdBRE1yOHlONVlqTXk4Q2R6RjJZa0YyYnlKMkx0OTJZdTRHWnlObmF1RTJM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W23GnxY.png" group-title="* MIXED01",RTSH Sport
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2TURjZlJIZHY5RmR5OUdjejlGYXpSbmN2VW1kcHgyTHk0Q08wNGlOd0VqTDVjekx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="* MIXED01",Abu Dhabi Sports 1
-eE1IZHk5R2NUOVZhaUZHYWtWblloMURacDlETzFOVGJ1WUhka0YyTDRVM010OWlkMDlTYnZObUxrRldib0ZHYmw1eWQzZDNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="* MIXED01",Abu Dhabi Sports 2
-eU1IZHk5R2N6OVZhaUZHYWtWblloMURacDlETzFOVGJ1WUhka0YyTDRVM010OWlkMDlTYnZObUxrRldib0ZHYmw1eWQzZDNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="* MIXED01",Abu Dhabi Sports 3
-ek1IZHk5R2N6OVZhaUZHYWtWblloMURacDlETzFOVGJ1WUhka0YyTDRVM010OWlkMDlTYnZObUxrRldib0ZHYmw1eWQzZDNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="* MIXED01",Abu Dhabi Sports 4
-ME1IZHk5R2N6OVZhaUZHYWtWblloMURacDlETzFOVGJ1WUhka0YyTDRVM010OWlkMDlTYnZObUxrRldib0ZHYmw1eWQzZDNMdm9EYzBSSGE=
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsF6q5g.png?1" group-title="* MIXED01",Al Kass Sports 1
 PUV6Y3pGMmFzRldQa2wyUDRVM010NXljekYyYXNGMkw0VTNNdDlpZDA5U2J2Tm1Ma0ZXYm9GR2JsNXlkM2QzTHZvRGMwUkhh
 
@@ -1279,24 +1104,6 @@ PT1BTzFOVGJ1UTNjcHhXZWh4R2N2WVRaM2NETWlsRE92Y1RPNGdqTTM4U1oybEdidk1IYm85Q2RsNW1M
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PiXDwF0.jpg" group-title="* MIXED01",DSport
 PWdUZHowbUx3QURPZlJFU2ZOSGR5OUdjelIwTEVoMFh6Um5jdkIzY0U5U2J2Tm1Mc2xtY3U4V2FxNWlZMWhXWm5OMmJwcDJMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="* MIXED01",Dubai Racing
-PWdUZHowbUwwTlhhc3RtYjFoMll2d1dhdE5uTHpSbmJsWlhaNndXYXROM0x6Um5ibFpYWnYwMmJqNXliczlXYnZkbWJoMW1MdVIyWXV3R2IyaEdkMk5YYXRSMkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="* MIXED01",Dubai Racing
-PT1BTzFOVGJ1WUhkelZIZTF4bVovZ1RkejBtTHdBRE13QWpOeEkyWDBOWGFzdG1iMWgyWXZ3V2F0Tm5MbjVXYWpGbWNwRm1ZMVJtT3NsV2J6OXladWwyWWhKWGFoSldkazlTYnZObUx2eDJidDkyWnVGV2J1NEdaajVDYnNabmNvUlhhdFIyTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="* MIXED01",Dubai Sports
-PT13YzBKM2J3TlhhaEpXZGsxRFpwOURPMU5UYnVZSGRwRm1ZMVIyTDRVM010OWlkMDlTYnZObUxrRldib0ZHYmw1eWQzZDNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="* MIXED01",Dubai Sports 1
-PUV6YzBKM2J3TlhhaEpXZGsxRFpwOURPMU5UYnVZSGRwRm1ZMVIyTDRVM010OWlkMDlTYnZObUxrRldib0ZHYmw1eWQzZDNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="* MIXED01",Dubai Sports 2
-PUl6YzBKM2J3TlhhaEpXZGsxRFpwOURPMU5UYnVZSGRwRm1ZMVIyTDRVM010OWlkMDlTYnZObUxrRldib0ZHYmw1eWQzZDNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="* MIXED01",Dubai Sports 3
-PU16YzBKM2J3TlhhaEpXZGsxRFpwOURPMU5UYnVZSGRwRm1ZMVIyTDRVM010OWlkMDlTYnZObUxrRldib0ZHYmw1eWQzZDNMdm9EYzBSSGE=
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LYKdpJv.png" group-title="* MIXED01",Edge Sports
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2NEVSRDl5YzBKM2J3TlhablJXWnRFVVF5RVVRQmRXYnA5VlkwRkdaZk5IYm85VmFuRldiaDlDZGw1bUxrVm1lcEZXYmh0V1l1VTJaa1YyWnRsMkx2b0RjMFJIYQ==
 
@@ -1318,24 +1125,6 @@ PWdUZHowbUxqOVNhbzlDTXdBRE1yOFNOd2NqTXk4Q2R6RjJZa0YyYnlKMkx0OTJZdTRHWnlObmF1RTJM
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042838.png" group-title="* MIXED01",MOTOR SPORT
 PVFET3dnak95a2pMeVlqTDRVakwxUXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="* MIXED01",Olympic Channel
-PWdUZHowbUwyUjNjMWhYZHNaMlA0VTNNdDV5TWZGelFQOVNkdlFYZHY5U2J2Tm1Mc1ZtYnVGR2FqTldhdzFXZXM5bUxsWlhhczFDZDA5Mkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="* MIXED01",Olympic Channel [UHD]
-PWdUZHowbUwyUjNjMWhYZHNaMlA0VTNNdDVTTWZGelFQOVNkdlFYZHY5U2J2Tm1Mc1ZtYnVGR2FqTldhdzFXZXM5bUxsWlhhczFDZDA5Mkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="* MIXED01",Rai Sport
-PWdUZHowbUx3MWlkaDlGTXdRelg0VkdadWwyTDNZVE8zY1RNQUZ6WHhrSGJzOW1hMEozYndOWGFoSjNMcDlDZGw1bUxraFdhaDFXWXJGbUxveFdMcEZtYzVKWFoyVjJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="* MIXED01",Real Madrid HD
-dTlXUGxOWFlpVm1jbUFUTTlRMmMvZ1RkejBtTGkxaWRoOUZNd0FUTWZoWFprNVdhdllETXpRVE54QVVNZlpIZHRKM0xwOUNkbDVtTGtoV2FoMVdZckZtTG94V0xsWlhhc1pIZHRKM0x2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="* MIXED01",Red Bull TV
-PT1BTzFOVGJ1Z2pNNThsY2xSM2NoMTJMVUZVTENKMWJDOUNOMmtETTVVekxsWlhhczl5Y3NoMkwwVm1idVFXWjZsV1l0RjJhaDVTWjJsR2J0NFdiaUozTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="* MIXED01",RTV Sports
-PT1BTzFOVGJ1WUhkelZIZTF4bVovZ1RkejBtTDBOWGFzbFhZc0IzTHNsV2J6NWlNdzBDYWpwRGJwMTJjdjhGZHo1V2FtVkdaZjlpTXdnMll0WUhkeTEyY3ZRWFp1NUNkdTltY21SV2R2eDJZdUF6Wnk4V2M1TlhidDlHZXNSMkx2b0RjMFJIYQ==
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="* MIXED01",Sharjah Sport
 PT1BTzFOVGJ1QURNd1VETzFJMlgwTlhhc3RtYjFoMll2d1dhdE5uTDBNV2J6OVNaMmxHYnpSbmN2QjNjME1XYno5Q2RsNW1MdVIyWXp0bWN2ZEhkcDV5YzJOM0x2b0RjMFJIYQ==
 
@@ -1355,70 +1144,7 @@ PWdUZHowbUw0VkdadWwyTHdJek5mUkRNd2cyWXZNSGJvbDNZaGRXWnM5U2IwNVNadWxHYnU5bUwyUm5M
 PT1BTzFOVGJ1a0ROeUFUTXZNRE8xY0RPeThpTXdZek12MFdZbEpIZHo5aWQwNXlhcE5uY2xCM0x2b0RjMFJIYQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smyvTHD.jpg" group-title="* MIXED01",World Of Free Sports TV
-PWdUZHowbUxqOVNhbzlDTXdBRE1yOHlNeWNqTXk4Q2R6RjJZa0YyYnlKMkx0OTJZdTRHWnlObmF1RTJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0TnySS9.png" group-title="* MIXED01",TRT WORLD HD
-PWdUZHowbUx5VkdkekZXYnZJSGR1MDJiajVDZHlSbkxsWlhhczVDWnNKM2IzUm5jMDFpZDA5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="* MIXED01",Al Jazeera HD
-PT1BTzFOVGJ1RURNdlVrU0I5Q2RsNW1McUZHZGxkbUxscFdZdElXWjMxeWNzaFdMbFpYYXM5eUw2TUhjMFJIYQ==
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HuQij93.png" group-title="* MIXED01",NHK WORLD HD
-NFUzTXQ1U1R5OEZlbFJtYnA5Q2NxaFhMbFpYYXNkM2FvNTJMNFVETnpBRE15OFNaMmxHYnZNSGJvOUNkbDVtTGtWbWVwRldiaHRXWXVBbmE0MVNaMmxHYjN0R2F1OXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53N0NTK.png" group-title="* MIXED01",Voice of America
-PWdUZHowbUx5VkdkekZXYnZnVE95QWpNekFrTmoxbWQwOTFjc0JYYmZGMmIyOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMVNZdlozTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="* MIXED01",BBC News
-PT1BTzFOVGJ1TTNhdVZIYWo5eWMzVm1iakptWWZkR2RqOWlkME5XYXlOR1pvOVNNNEFETzYwMmJqNUNaaU5uY3Z4MmJqNWlkMFZtZHB4Mkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="* MIXED01",Sky News Extra
-PT1BTzFOVGJ1SVhaME5YWXQ5eU1oSkhkNFZXTDFGMmMzVm1iNXQyY3ZFVE8ySURNd0l6TGxaWGFzOXljc2gyTDBWbWJ1UVdaNmxXWXRGMmFoNVNaMmxHYnRVWFl6ZFhadWwzYXo5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="* MIXED01",CNA World
-NFUzTXQ1U013SVhaME5YWXQ5aWQwTjJjaDUyWXZNSGJvOUNkbDVtTDA1MmJ5WkdaMTlHYmo1aU0xWVRPcnBXZDZOR052dG1Nazl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/npaOE9P.png" group-title="* MIXED01",CBS News
-PT1BVlU5a0xaNWtMVEowUXZnak14UXpMOVVYYS9nVGR6MG1MeVZHZHpGV2J2Y1hONTVXWWxSV2RodFdSUFpIVlNSalpzMTBZMEozTDA1V1oyVjJMenhHYXZJWFlsNVdhczlTYnZObUxseDJadjkyWnVrV1lrOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fnxMNd7.png" group-title="* MIXED01",Newsmax TV
-PT1BSTRVM010NUNlbFJtYnA5U01mVm1kcHgwTDFZVE81SVROdlVtZHB4Mkx6eEdhdlFYWnU1Q1pscFhhaDFXWXJGbUxsWlhhc2hYYnU5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93hJZzh.png" group-title="* MIXED01",YTN
-NFUzTXQ1Q2R6bEdiNUZHYnc5U01mbFRNMEFETnhBak1mVm1kcHhHWjU5aVl0UjJMMU1UT3hvamNyNXliajVpYjBsbkxsWlhhc04zTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="http://www.bntva.ru/images/bntv/24mir.png" group-title="* MIXED01",Mir News 24
-NFUzTXQ1Q2R6bEdiNUZHYnc5Q013VWpNZlJqTXlsV2J2ZzJjcHhtWTFCWGJoSlhZdzFpZDBKWGF0OVNkeTV5YmxSV2EyNUdaajVpZDBKWGF0NXljc2gyTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="* MIXED01",PTV News
-NFUzTXQ1Q2R6bEdiNUZHYnc5aU1tUlRPNEFUWjA4U000TWpOd0FUTXZVbWRweDJMenhHYXZRWFp1NUNab2xXWXRGMmFoNVNhdFVqTXlRMmJ5QlhZNmQzYjM5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hwqJRrT.png" group-title="* MIXED01", 92 News
-NFUzTXQ1Q2R6bEdiNUZHYnc5Q1pvSlRPdlFHYXpkWFp1SlRPdlFYWnU1U1p1OVdiaFZtYzBOSFp1NEdaMjV5YzNWbWJ5a3pMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hwqJRrT.png" group-title="* MIXED01", 92 News
-PWdUZHowbUwwTlhhc2xYWXNCM0x3QmpOeDhGWm9KVE92UUdhemRYWnVKVE92UVhadTVTWnU5V2JoVm1jME5IWnU0R1oyNXljM1ZtYnlrekx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="* MIXED01", Dunya News
-PWdUZHowbUwwTlhhc2xYWXNCM0xzbFdiejVTYmhWbWMwTm5Pc2xXYno5U1oybEdidlV6TTVFak8yUm5MemRYWnVGV2V1VkhadUkyYnRsMkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="* MIXED01", Dunya News
-PWdUZHowbUxXUjFjMWhYZHNaMEx4OFZaMmxHYmhsbmIxUjJMZlIzY3VsbVpsUjJYdlVtZHB4MkwyUm5MemRYWnVGV2V1VkhadUkyYnRsMkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="* MIXED01", Khyber News
-PT1BTzFOVGJ1SVhaME5YWXQ5eU4zWWpNNVlEUXg4VloybEdialIyTHA5Q2RsNW1Ma2hXYWgxV1lyRm1Mb3hXTDRNVFoybEdicDVXZGpSMkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKRCk7K.png" group-title="* MIXED01", Lahore News
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2RXpYemRYWnV4MkxsWlhhc1ZtY3ZoV1lzOVNOemtUTTZZSGR1TTNkbDVXWnk5R2FoeG1MbFpYYXMxMkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKRCk7K.png" group-title="* MIXED01", Lahore News
-PT1BTzFOVGJ1SWxWRTlGZHpsR2JyNVdkb04yTHg4MWMzVm1iczlTWjJsR2JsSjNib0ZHYnZZSGR1TTNkbDVXWnk5R2FoeG1MbFpYYXMxMkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6zZmZtJ.jpg" group-title="* MIXED01",Bloomberg
-PT1BTzFOVGJ1VW1kcHgyWHgwQ00wSVRMV1IxVVYxU1pqSlhkdk4xTHgwU1lwNVdhbkpYYTIxeVVYRlVMV1IxVVYxQ2JsNW1iaGgyUXZNWGR2UVhadTVTZXNSM2NoWm1Mc04zY3V3V1lpOUdibjVDZHpGV1p6VkhadkpIY2xaWGFzOXlMNk1IYzBSSGE=
-
+PWdUZHowbUxqOVNhbzlDTXdBRE1yOHlNeWNqTXk4Q2R6RjJZa0YyYnlKMkx0OTJZdTRHWnlObmF1RTJMdm9EYzBSSGE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kavMAI.png" group-title="* MIXED01",Wion TV
 NFUzTXQ1Q2VsUm1icDlTTWhGamR0TTNhakZtYzA5aWJ2bDJkdlFYWnU1Q1pscFhhaDFXWXJGbUx6eEdhejFXWTFvM0x2b0RjMFJIYQ==
@@ -1435,56 +1161,14 @@ NFUzTXQ1aWNsUjNjaDFXWXBSbWJwWkhkazUyTGhsR1p1bG1kMFJtYnZrek4yTURNd0l6TGxaWGFzOXlj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/ABP_News_logo.png/100px-ABP_News_logo.png" group-title="* MIXED01",ABP NEWS
 NFUzTXQ1aWNsUjNjaDEyTHBSbWJwaEdjaUYyTDVJVE4xWXpOdlVtZHB4Mkx6eEdhdlFYWnU1Q1pvbFdZdEYyYWg1U2F0QW5ZaDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/ABP_News_logo.png/100px-ABP_News_logo.png" group-title="* MIXED01",ABP NEWS
-NFUzTXQ1eWNyNVdkb04yTHpkWFp1OUZjaUYyTGxaWGFzOUNNNG9qTTBJakwxTVRNdWdUT3g0eU13RXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Times_Now_2010.png/220px-Times_Now_2010.png" group-title="* MIXED01",TIMES NOW
-PT1BTzFOVGJ1QVhMMkYyWHdJek5maFhaazVXYXZnRE95a2pNeEFVTWZSRVNPUjFMcDlDZGw1bUxraFdhaDFXWXJGbUxveFdMMzltYnpWV2JwUjNMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dOlCIQb.jpg" group-title="* MIXED01",Mirror Now
-NFUzTXQ1Q2N0WVhZZlp6TjE4RmVsUm1icDlTTjBVak4wTURReDhsVFMxMExwOUNkbDVtTGtoV2FoMVdZckZtTG94V0xpVjJkMzltYmkxMkx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/ET_NOW_220px.png" group-title="* MIXED01",ET Now
-PT1BTzFOVGJ1SVdMMkYyWDJjVE5maFhaazVXYXZBek53Z0ROekFVTWY1RVZGOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMVNaMmxHYmlWMmQzOW1iMFYyTHZvRGMwUkhh
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NQ0WRUT.png" group-title="* MIXED01",DD News
-PWdUZHowbUx5VkdkekZXYnZNek14a0RNMEFVTWZOM2RsNUdaazlTYXZRWFp1NUNab2xXWXRGMmFoNUNhczFTTXp4MllwNTJMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UdcSRtu.png" group-title="* MIXED01",The Weather Channel
-PWdUZHowbUx5VkdkekZXYnZZRE13SVRPQUZ6WGpkSGR2azJMMFZtYnVRR2FwRldiaHRXWXVnR2J0SVhab1JYWWxkM0x2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iwQc4dx.jpg" group-title="* MIXED01",WEATHER NATION
-PWdUZHowbUxoOVNNMWNET3lRRE95OENaSlptYnZOVWExOUNjMFJIYXZ3MmJqOUdkdkpIY3ZBSGQwaFdac0JIY2g5Q2RoMW1jdloyTHlVMlpqaG5jdjkyWHg4Q1pKbG5jMDVXWnZRM2NsWldhdUZXVDVGR2J3OUNNd0lETTNFek01OENjejlpTXdjVE16a3pMdzlTYnZObUxoSlhkMHhXWXI1U2F3Rm1ia04yTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="* MIXED01",9x Tashan
-PWdUZHowbUx1bG1MdUZHYXpGR1ZZbGpMd016Tnc4U1oybEdidlFYWnU1U2EzNUdiczV5Y3VNSGN3Rm1NcTFTTXdNV0x0OXlMNk1IYzBSSGE=
-
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png" group-title="* MIXED01",BINDASS
 elJuTHc4Q000QURPNlVqTnVnRE94NENNeUVqTDFRekx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AEWPtCE.jpg" group-title="* MIXED01",E24
-PT1BTzFOVGJ1a0RPeDhDVXRZRlZOOVNheUZHYVQ5U1oybEdidlV6TTVFak8wRVRNdWt6TnVnVE14NHlNd0V6THZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/McCmKQs.jpg" group-title="* MIXED01",Wow Music
-PT1BTzFOVGJ1Z1haazVXYXZreVlwTlhkTmQzYlhoQ2JsNW1iaGgyUXZVbWRweDBMamwyYzExMmR2ZDNMMDVXWjA1MmJEOUNOMUlqTHhZVE11a1RPeDR5TXdFekx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W8qIZmQ.jpg" group-title="* MIXED01",MH 1
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2TVdhelZYYmw1MmJvMTJMamwyYzExV1p1OUdhdDlTTnprVE02OFdaa2xtZHUwV1lsSkhkelJuY2gxMmN1QVhiMEozTHZvRGMwUkhh
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T4mux80.png" group-title="* MIXED01",Jhanjar Music
 NFUzTXQ1eVlwTlhkdDlsY2hwbWJoaG1hdk1XYXpWWGJmSlhZcTVXWW9wMkx6eEdhdlF6TXg0U091TURNeTRTTzFFekx2b0RjMFJIYQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFCoc2a.jpg" group-title="* MIXED01",Artist Aloud
 PT1BTzFOVGJ1QVhMMkYyWDRJVE15OEZlbFJtYnA5eU00VVRNMGNEUXg4RloxOUdiaFIzY3BSbmNoOVNhdlFYWnU1Q1pvbFdZdEYyYWg1Q2FzMWliMWhHTXhJWFlsNVdhczl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M3B5xDy.png" group-title="* MIXED01",DIL SE
-NFUzTXQ1Q2N0WVhZZmhqTXhJelg0VkdadWwyTHhJVE96Y2pOQUZ6WGxOSGJwUjJMcDlDZGw1bUxraFdhaDFXWXJGbUxveFdMdVZIYTNBamNoVm1icHgyTHZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/McCmKQs.jpg" group-title="* MIXED01",Kadak Hits
-PT1BTzFOVGJ1QVhMMkYyWDRJVE15OEZlbFJtYnA5Q096Z0RNMllEUXg4MWMwbEdhMVJXWWhaMkxwOUNkbDVtTGtoV2FoMVdZckZtTG94V0x1VkhheEFqY2hWbWJweDJMdm9EYzBSSGE=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X8QAry8.jpg" group-title="* MIXED01",Mooz Hits
 PVFrVEYxRFp1Vm1KRlpWU00xRGR5RkdkejlUSzVVak0xUVROb3dXWjJWR1R2Z1RkejBtTDBFekxFTjFjMGxHUzY5MmJOUlNSV2xFVHZNSGJvTjNMMFZtYnVRV1o2bFdZdEYyYWg1eWJ5MWlkMDEyYnJWR2JsUjNMdm9EYzBSSGE=
@@ -1545,9 +1229,6 @@ PWdUZHowbUxrNVdkdkozWnlWR1p1VjNMMlIzTHQ5Mll1Y21icHBHWnVjM2QzOXlMNk1IYzBSSGE=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Qmusiclogo2015red.jpg/220px-Qmusiclogo2015red.jpg" group-title="* MIXED01",Q Music
 PT1BTzFOVGJ1d2tUamwyYzExV1V2Z1hiaFZtYzBOM0wwVm1idVFXWjZsV1l0RjJhaDVTWjJsR2J0d21iamwyYzExV2N0QUhjazl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LRWC8Uo.png" group-title="* MIXED01",Retro
-PWdUZHowbUw0UURNNU1qTjNJak4zOUZkemxHYnI1V2RvTjJMeEVGUzJSM2J5UlhaeTlpZDA5bWMwVm1jdm8zWXVzbWN2ZFhZcFJXWnQ1U2JoVm1jME4zTHZvRGMwUkhh
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tZZWF6Q.jpg" group-title="* MIXED01",ROCK TV
 PWdUZHowbUwwTlhhc2xYWXNCM0wyUjNhajltY3Y4RmR6NVdhbVZHWmY5eU1sWlhhczlTTzE0aU56RWpMd0lqTDJRekx2b0RjMFJIYQ==
